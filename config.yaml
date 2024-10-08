@@ -25,8 +25,7 @@ keywords:
     "VLM": 
         filters: ["VLM", "VLP", "Vision Language Models", 
                   "Vision-Language Models", "Vision-language pre-training", 
-                  ""Vision-language Models"]
-        
+                  "Vision-language Models"]
     "Video-Text Retrieval":
         filters: ["Multi-event Video-Text Retrieval", "Video-Text Retrieval", 
                   "Zero-shot Video-Text Retrieval", "Text-to-Video Retrieval", 
@@ -36,4 +35,4 @@ keywords:
                   "Human-centric perception", "instruct ReID", 
                   "Text-to-image ReID"]
     "CC-ReID":
-        filters: ["Cloth-Changing Person Re-Identification", "Cloth-Changing", "CC-ReID" ]
+        filters: ["Cloth-Changing Person Re-Identification", "Cloth-Changing", "CC-ReID"]
