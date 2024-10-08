@@ -23,11 +23,17 @@ md_wechat_path: './docs/wechat.md'
 # keywords to search
 keywords:
     "VLM": 
-        filters: ["VLM", "Vision Language Models", "Vision-Language Models"]
+        filters: ["VLM", "VLP", "Vision Language Models", 
+                  "Vision-Language Models", "Vision-language pre-training", 
+                  ""Vision-language Models"]
         
     "Video-Text Retrieval":
-        filters: ["Multievent Video-Text Retrieval", "Video-Text Retrieval", 
+        filters: ["Multi-event Video-Text Retrieval", "Video-Text Retrieval", 
                   "Zero-shot Video-Text Retrieval", "Text-to-Video Retrieval", 
-                  "Partially Relevant Video Retrieval"]
+                  "Partially Relevant Video Retrieval", "VTR", "MeVTR", "EA-VTR", "PRVR"]
+    "Human-Centric":
+        filters: ["Person Re-Identification", "person ReID", 
+                  "Human-centric perception", "instruct ReID", 
+                  "Text-to-image ReID"]
     "CC-ReID":
-        filters: ["Cloth-Changing Person Re-Identification", "Cloth-Changing"]
+        filters: ["Cloth-Changing Person Re-Identification", "Cloth-Changing", "CC-ReID" ]
