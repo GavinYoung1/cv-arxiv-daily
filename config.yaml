@@ -30,5 +30,4 @@ keywords:
                   "Zero-shot Video-Text Retrieval", "Text-to-Video Retrieval", 
                   "Partially Relevant Video Retrieval"]
     "CC-ReID":
-        filters: ["Cloth-Changing Person Re-Identification",
-                  "Cloth-Changing"]
+        filters: ["Cloth-Changing Person Re-Identification", "Cloth-Changing"]
