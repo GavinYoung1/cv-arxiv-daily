@@ -18,13 +18,13 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2024-10-07**|**Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**|Mohammad Fahes et.al.|[2410.05270](http://arxiv.org/abs/2410.05270)|null|
+|**2024-10-07**|**Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**|Mohammad Fahes et.al.|[2410.05270](http://arxiv.org/abs/2410.05270)|**[link](https://github.com/astra-vision/prolip)**|
 |**2024-10-07**|**TextHawk2: A Large Vision-Language Model Excels in Bilingual OCR and Grounding with 16x Fewer Tokens**|Ya-Qi Yu et.al.|[2410.05261](http://arxiv.org/abs/2410.05261)|null|
-|**2024-10-07**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239](http://arxiv.org/abs/2410.05239)|null|
-|**2024-10-07**|**Preserving Multi-Modal Capabilities of Pre-trained VLMs for Improving Vision-Linguistic Compositionality**|Youngtaek Oh et.al.|[2410.05210](http://arxiv.org/abs/2410.05210)|null|
+|**2024-10-07**|**TuneVLSeg: Prompt Tuning Benchmark for Vision-Language Segmentation Models**|Rabin Adhikari et.al.|[2410.05239](http://arxiv.org/abs/2410.05239)|**[link](https://github.com/naamiinepal/tunevlseg)**|
+|**2024-10-07**|**Preserving Multi-Modal Capabilities of Pre-trained VLMs for Improving Vision-Linguistic Compositionality**|Youngtaek Oh et.al.|[2410.05210](http://arxiv.org/abs/2410.05210)|**[link](https://github.com/ytaek-oh/fsc-clip)**|
 |**2024-10-07**|**LADEV: A Language-Driven Testing and Evaluation Platform for Vision-Language-Action Models in Robotic Manipulation**|Zhijie Wang et.al.|[2410.05191](http://arxiv.org/abs/2410.05191)|null|
 |**2024-10-07**|**VLM2Vec: Training Vision-Language Models for Massive Multimodal Embedding Tasks**|Ziyan Jiang et.al.|[2410.05160](http://arxiv.org/abs/2410.05160)|null|
-|**2024-10-07**|**HyperINF: Unleashing the HyperPower of the Schulz's Method for Data Influence Estimation**|Xinyu Zhou et.al.|[2410.05090](http://arxiv.org/abs/2410.05090)|null|
+|**2024-10-07**|**HyperINF: Unleashing the HyperPower of the Schulz's Method for Data Influence Estimation**|Xinyu Zhou et.al.|[2410.05090](http://arxiv.org/abs/2410.05090)|**[link](https://github.com/blackzxy/hyperinf)**|
 |**2024-10-07**|**HE-Drive: Human-Like End-to-End Driving with Vision Language Models**|Junming Wang et.al.|[2410.05051](http://arxiv.org/abs/2410.05051)|null|
 |**2024-10-07**|**TLDR: Token-Level Detective Reward Model for Large Vision Language Models**|Deqing Fu et.al.|[2410.04734](http://arxiv.org/abs/2410.04734)|null|
 |**2024-10-06**|**Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress**|Christopher Agia et.al.|[2410.04640](http://arxiv.org/abs/2410.04640)|null|
