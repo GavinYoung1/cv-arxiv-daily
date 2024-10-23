@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.10.22
+## Updated on 2024.10.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLM
@@ -22,7 +22,7 @@ layout: default
 |**2024-10-21**|**MI-VisionShot: Few-shot adaptation of vision-language models for slide-level classification of histopathological images**|Pablo Meseguer et.al.|[2410.15881](http://arxiv.org/abs/2410.15881)|null|
 |**2024-10-21**|**Task-oriented Robotic Manipulation with Vision Language Models**|Nurhan Bulus Guran et.al.|[2410.15863](http://arxiv.org/abs/2410.15863)|null|
 |**2024-10-21**|**An Efficient System for Automatic Map Storytelling -- A Case Study on Historical Maps**|Ziyi Liu et.al.|[2410.15780](http://arxiv.org/abs/2410.15780)|**[link](https://github.com/claudaff/automatic-map-storytelling)**|
-|**2024-10-21**|**Reducing Hallucinations in Vision-Language Models via Latent Space Steering**|Sheng Liu et.al.|[2410.15778](http://arxiv.org/abs/2410.15778)|null|
+|**2024-10-22**|**Reducing Hallucinations in Vision-Language Models via Latent Space Steering**|Sheng Liu et.al.|[2410.15778](http://arxiv.org/abs/2410.15778)|null|
 |**2024-10-21**|**AutoTrain: No-code training for state-of-the-art models**|Abhishek Thakur et.al.|[2410.15735](http://arxiv.org/abs/2410.15735)|**[link](https://github.com/huggingface/autotrain-advanced)**|
 |**2024-10-18**|**NaturalBench: Evaluating Vision-Language Models on Natural Adversarial Samples**|Baiqi Li et.al.|[2410.14669](http://arxiv.org/abs/2410.14669)|null|
 |**2024-10-18**|**Neuro-Symbolic Traders: Assessing the Wisdom of AI Crowds in Markets**|Namid R. Stillman et.al.|[2410.14587](http://arxiv.org/abs/2410.14587)|null|
