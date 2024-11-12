@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
+|**2024-11-11**|**StoryTeller: Improving Long Video Description through Global Audio-Visual Character Identification**|Yichen He et.al.|[2411.07076](http://arxiv.org/abs/2411.07076)|**[link](https://github.com/hyc2026/StoryTeller)**|
+|**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921](http://arxiv.org/abs/2411.06921)|null|
+|**2024-11-11**|**Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning**|Hongsheng Zhang et.al.|[2411.06764](http://arxiv.org/abs/2411.06764)|null|
+|**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
+|**2024-11-11**|**Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs**|Jia Syuen Lim et.al.|[2411.06702](http://arxiv.org/abs/2411.06702)|null|
+|**2024-11-11**|**Renaissance: Investigating the Pretraining of Vision-Language Encoders**|Clayton Fields et.al.|[2411.06657](http://arxiv.org/abs/2411.06657)|**[link](https://github.com/bsu-slim/renaissance)**|
+|**2024-11-09**|**Hidden in Plain Sight: Evaluating Abstract Shape Recognition in Vision-Language Models**|Arshia Hemmat et.al.|[2411.06287](http://arxiv.org/abs/2411.06287)|null|
+|**2024-11-09**|**Sampling-Based Model Predictive Control for Dexterous Manipulation on a Biomimetic Tendon-Driven Hand**|Adrian Hess et.al.|[2411.06183](http://arxiv.org/abs/2411.06183)|null|
+|**2024-11-09**|**Aquila-plus: Prompt-Driven Visual-Language Models for Pixel-Level Remote Sensing Image Understanding**|Kaixuan Lu et.al.|[2411.06142](http://arxiv.org/abs/2411.06142)|null|
 |**2024-11-08**|**End-to-End Navigation with Vision Language Models: Transforming Spatial Reasoning into Question-Answering**|Dylan Goetting et.al.|[2411.05755](http://arxiv.org/abs/2411.05755)|null|
 |**2024-11-08**|**Poze: Sports Technique Feedback under Data Constraints**|Agamdeep Singh et.al.|[2411.05734](http://arxiv.org/abs/2411.05734)|null|
 |**2024-11-08**|**A Two-Step Concept-Based Approach for Enhanced Interpretability and Trust in Skin Lesion Diagnosis**|Cristiano Patrício et.al.|[2411.05609](http://arxiv.org/abs/2411.05609)|null|
