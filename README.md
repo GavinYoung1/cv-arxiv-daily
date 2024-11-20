@@ -19,6 +19,10 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-19**|**CATCH: Complementary Adaptive Token-level Contrastive Decoding to Mitigate Hallucinations in LVLMs**|Zhehan Kan et.al.|[2411.12713](http://arxiv.org/abs/2411.12713)|null|
+|**2024-11-19**|**Just KIDDIN: Knowledge Infusion and Distillation for Detection of INdecent Memes**|Rahul Garg et.al.|[2411.12174](http://arxiv.org/abs/2411.12174)|null|
+|**2024-11-18**|**Vision Language Models Are Few-Shot Audio Spectrogram Classifiers**|Satvik Dixit et.al.|[2411.12058](http://arxiv.org/abs/2411.12058)|null|
+|**2024-11-18**|**ITACLIP: Boosting Training-Free Semantic Segmentation with Image, Text, and Architectural Enhancements**|M. Arda Aydın et.al.|[2411.12044](http://arxiv.org/abs/2411.12044)|**[link](https://github.com/m-arda-aydn/itaclip)**|
 |**2024-11-18**|**MC-LLaVA: Multi-Concept Personalized Vision-Language Model**|Ruichuan An et.al.|[2411.11706](http://arxiv.org/abs/2411.11706)|null|
 |**2024-11-18**|**TrojanRobot: Backdoor Attacks Against Robotic Manipulation in the Physical World**|Xianlong Wang et.al.|[2411.11683](http://arxiv.org/abs/2411.11683)|null|
 |**2024-11-18**|**VLN-Game: Vision-Language Equilibrium Search for Zero-Shot Semantic Navigation**|Bangguo Yu et.al.|[2411.11609](http://arxiv.org/abs/2411.11609)|null|
