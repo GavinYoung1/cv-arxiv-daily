@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Context-Aware Multimodal Pretraining**|Karsten Roth et.al.|[2411.15099](http://arxiv.org/abs/2411.15099)|null|
+|**2024-11-22**|**Geminio: Language-Guided Gradient Inversion Attacks in Federated Learning**|Junjie Shan et.al.|[2411.14937](http://arxiv.org/abs/2411.14937)|**[link](https://github.com/HKU-TASR/Geminio)**|
+|**2024-11-22**|**ReVisionLLM: Recursive Vision-Language Model for Temporal Grounding in Hour-Long Videos**|Tanveer Hannan et.al.|[2411.14901](http://arxiv.org/abs/2411.14901)|null|
+|**2024-11-22**|**VisGraphVar: A Benchmark Generator for Assessing Variability in Graph Analysis Using Large Vision-Language Models**|Camilo Chacón Sartori et.al.|[2411.14832](http://arxiv.org/abs/2411.14832)|null|
+|**2024-11-22**|**Continual SFT Matches Multimodal RLHF with Negative Supervision**|Ke Zhu et.al.|[2411.14797](http://arxiv.org/abs/2411.14797)|null|
+|**2024-11-22**|**VideoEspresso: A Large-Scale Chain-of-Thought Dataset for Fine-Grained Video Reasoning via Core Frame Selection**|Songhao Han et.al.|[2411.14794](http://arxiv.org/abs/2411.14794)|null|
+|**2024-11-22**|**Effective SAM Combination for Open-Vocabulary Semantic Segmentation**|Minhyeok Lee et.al.|[2411.14723](http://arxiv.org/abs/2411.14723)|null|
+|**2024-11-21**|**GMAI-VL & GMAI-VL-5.5M: A Large Vision-Language Model and A Comprehensive Multimodal Dataset Towards General Medical AI**|Tianbin Li et.al.|[2411.14522](http://arxiv.org/abs/2411.14522)|**[link](https://github.com/uni-medical/gmai-vl)**|
 |**2024-11-21**|**Looking Beyond Text: Reducing Language bias in Large Vision-Language Models via Multimodal Dual-Attention and Soft-Image Guidance**|Haozhe Zhao et.al.|[2411.14279](http://arxiv.org/abs/2411.14279)|null|
 |**2024-11-21**|**Is this Generated Person Existed in Real-world? Fine-grained Detecting and Calibrating Abnormal Human-body**|Zeqing Wang et.al.|[2411.14205](http://arxiv.org/abs/2411.14205)|null|
 |**2024-11-21**|**FoPru: Focal Pruning for Efficient Large Vision-Language Models**|Lei Jiang et.al.|[2411.14164](http://arxiv.org/abs/2411.14164)|null|
@@ -295,6 +303,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-22**|**Anti-Forgetting Adaptation for Unsupervised Person Re-identification**|Hao Chen et.al.|[2411.14695](http://arxiv.org/abs/2411.14695)|null|
 |**2024-11-01**|**Multiple Information Prompt Learning for Cloth-Changing Person Re-Identification**|Shengxun Wei et.al.|[2411.00330](http://arxiv.org/abs/2411.00330)|null|
 |**2024-10-11**|**Aligned Divergent Pathways for Omni-Domain Generalized Person Re-Identification**|Eugene P. W. Ang et.al.|[2410.08466](http://arxiv.org/abs/2410.08466)|null|
 |**2024-10-11**|**Diverse Deep Feature Ensemble Learning for Omni-Domain Generalized Person Re-identification**|Eugene P. W. Ang et.al.|[2410.08460](http://arxiv.org/abs/2410.08460)|null|
