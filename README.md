@@ -19,6 +19,15 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-11-26**|**What's in the Image? A Deep-Dive into the Vision of Vision Language Models**|Omri Kaduri et.al.|[2411.17491](http://arxiv.org/abs/2411.17491)|null|
+|**2024-11-26**|**VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**|Lei Li et.al.|[2411.17451](http://arxiv.org/abs/2411.17451)|null|
+|**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[2411.17406](http://arxiv.org/abs/2411.17406)|**[link](https://github.com/WilsonMqz/CoA)**|
+|**2024-11-26**|**Interleaved Scene Graph for Interleaved Text-and-Image Generation Assessment**|Dongping Chen et.al.|[2411.17188](http://arxiv.org/abs/2411.17188)|null|
+|**2024-11-26**|**Distilling Spectral Graph for Object-Context Aware Open-Vocabulary Semantic Segmentation**|Chanyoung Kim et.al.|[2411.17150](http://arxiv.org/abs/2411.17150)|null|
+|**2024-11-26**|**Free $^2$ Guide: Gradient-Free Path Integral Control for Enhancing Text-to-Video Generation with Large Vision-Language Models**|Jaemin Kim et.al.|[2411.17041](http://arxiv.org/abs/2411.17041)|null|
+|**2024-11-26**|**Words Matter: Leveraging Individual Text Embeddings for Code Generation in CLIP Test-Time Adaptation**|Shambhavi Mishra et.al.|[2411.17002](http://arxiv.org/abs/2411.17002)|**[link](https://github.com/ShambhaviCodes/CLIPOT)**|
+|**2024-11-25**|**Probing the limitations of multimodal language models for chemistry and materials research**|Nawaf Alampara et.al.|[2411.16955](http://arxiv.org/abs/2411.16955)|**[link](https://github.com/lamalab-org/mac-bench)**|
+|**2024-11-25**|**Beyond Sight: Towards Cognitive Alignment in LVLM via Enriched Visual Knowledge**|Yaqi Zhao et.al.|[2411.16824](http://arxiv.org/abs/2411.16824)|null|
 |**2024-11-25**|**Generating Out-Of-Distribution Scenarios Using Language Models**|Erfan Aasi et.al.|[2411.16554](http://arxiv.org/abs/2411.16554)|null|
 |**2024-11-25**|**RoboSpatial: Teaching Spatial Understanding to 2D and 3D Vision-Language Models for Robotics**|Chan Hee Song et.al.|[2411.16537](http://arxiv.org/abs/2411.16537)|null|
 |**2024-11-25**|**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**|Boming Miao et.al.|[2411.16503](http://arxiv.org/abs/2411.16503)|null|
