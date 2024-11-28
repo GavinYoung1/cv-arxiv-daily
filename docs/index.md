@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**Visual Adversarial Attack on Vision-Language Models for Autonomous Driving**|Tianyuan Zhang et.al.|[2411.18275](http://arxiv.org/abs/2411.18275)|null|
+|**2024-11-27**|**SCoTT: Wireless-Aware Path Planning with Vision Language Models and Strategic Chains-of-Thought**|Aladin Djuhera et.al.|[2411.18212](http://arxiv.org/abs/2411.18212)|null|
+|**2024-11-27**|**From Open Vocabulary to Open World: Teaching Vision Language Models to Detect Novel Objects**|Zizhao Li et.al.|[2411.18207](http://arxiv.org/abs/2411.18207)|**[link](https://github.com/343gltysprk/ovow)**|
+|**2024-11-27**|**Critic-V: VLM Critics Help Catch VLM Errors in Multimodal Reasoning**|Di Zhang et.al.|[2411.18203](http://arxiv.org/abs/2411.18203)|null|
+|**2024-11-27**|**DistinctAD: Distinctive Audio Description Generation in Contexts**|Bo Fang et.al.|[2411.18180](http://arxiv.org/abs/2411.18180)|null|
+|**2024-11-27**|**COREval: A Comprehensive and Objective Benchmark for Evaluating the Remote Sensing Capabilities of Large Vision-Language Models**|Xiao An et.al.|[2411.18145](http://arxiv.org/abs/2411.18145)|null|
+|**2024-11-27**|**When Large Vision-Language Models Meet Person Re-Identification**|Qizao Wang et.al.|[2411.18111](http://arxiv.org/abs/2411.18111)|null|
+|**2024-11-27**|**Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis**|Weiqin Zhao et.al.|[2411.18101](http://arxiv.org/abs/2411.18101)|null|
+|**2024-11-27**|**VLM-HOI: Vision Language Models for Interpretable Human-Object Interaction Analysis**|Donggoo Kang et.al.|[2411.18038](http://arxiv.org/abs/2411.18038)|null|
+|**2024-11-27**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
 |**2024-11-26**|**What's in the Image? A Deep-Dive into the Vision of Vision Language Models**|Omri Kaduri et.al.|[2411.17491](http://arxiv.org/abs/2411.17491)|null|
 |**2024-11-26**|**VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**|Lei Li et.al.|[2411.17451](http://arxiv.org/abs/2411.17451)|null|
 |**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[2411.17406](http://arxiv.org/abs/2411.17406)|**[link](https://github.com/WilsonMqz/CoA)**|
@@ -322,6 +332,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-11-27**|**When Large Vision-Language Models Meet Person Re-Identification**|Qizao Wang et.al.|[2411.18111](http://arxiv.org/abs/2411.18111)|null|
 |**2024-11-22**|**Anti-Forgetting Adaptation for Unsupervised Person Re-identification**|Hao Chen et.al.|[2411.14695](http://arxiv.org/abs/2411.14695)|null|
 |**2024-11-01**|**Multiple Information Prompt Learning for Cloth-Changing Person Re-Identification**|Shengxun Wei et.al.|[2411.00330](http://arxiv.org/abs/2411.00330)|null|
 |**2024-10-11**|**Aligned Divergent Pathways for Omni-Domain Generalized Person Re-Identification**|Eugene P. W. Ang et.al.|[2410.08466](http://arxiv.org/abs/2410.08466)|null|
