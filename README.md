@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -28,7 +28,7 @@
 |**2024-11-27**|**When Large Vision-Language Models Meet Person Re-Identification**|Qizao Wang et.al.|[2411.18111](http://arxiv.org/abs/2411.18111)|null|
 |**2024-11-27**|**Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis**|Weiqin Zhao et.al.|[2411.18101](http://arxiv.org/abs/2411.18101)|**[link](https://github.com/HKU-MedAI/ConcepPath)**|
 |**2024-11-27**|**VLM-HOI: Vision Language Models for Interpretable Human-Object Interaction Analysis**|Donggoo Kang et.al.|[2411.18038](http://arxiv.org/abs/2411.18038)|null|
-|**2024-11-27**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
+|**2024-11-28**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
 |**2024-11-26**|**What's in the Image? A Deep-Dive into the Vision of Vision Language Models**|Omri Kaduri et.al.|[2411.17491](http://arxiv.org/abs/2411.17491)|null|
 |**2024-11-26**|**VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**|Lei Li et.al.|[2411.17451](http://arxiv.org/abs/2411.17451)|null|
 |**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[2411.17406](http://arxiv.org/abs/2411.17406)|**[link](https://github.com/WilsonMqz/CoA)**|
@@ -317,7 +317,7 @@
 |**2024-10-07**|**TLDR: Token-Level Detective Reward Model for Large Vision Language Models**|Deqing Fu et.al.|[2410.04734](http://arxiv.org/abs/2410.04734)|null|
 |**2024-10-06**|**Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress**|Christopher Agia et.al.|[2410.04640](http://arxiv.org/abs/2410.04640)|null|
 
-<p align=right>(<a href=#updated-on-20241201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 ## Video-Text Retrieval
 
@@ -335,7 +335,7 @@
 |**2023-09-25**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551](http://arxiv.org/abs/2308.11551)|**[link](https://github.com/gengyuanmax/mevtr)**|
 |**2022-08-26**|**Partially Relevant Video Retrieval**|Jianfeng Dong et.al.|[2208.12510](http://arxiv.org/abs/2208.12510)|**[link](https://github.com/HuiGuanLab/ms-sl)**|
 
-<p align=right>(<a href=#updated-on-20241201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 ## Human-Centric
 
@@ -359,7 +359,7 @@
 |**2024-03-16**|**Bidirectional Multi-Step Domain Generalization for Visible-Infrared Person Re-Identification**|Mahdi Alehdaghi et.al.|[2403.10782](http://arxiv.org/abs/2403.10782)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650](http://arxiv.org/abs/2403.08650)|null|
 
-<p align=right>(<a href=#updated-on-20241201>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20241202>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2024.12.01
+## Updated on 2024.12.02
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLM
@@ -23,7 +23,7 @@ layout: default
 |**2024-11-27**|**When Large Vision-Language Models Meet Person Re-Identification**|Qizao Wang et.al.|[2411.18111](http://arxiv.org/abs/2411.18111)|null|
 |**2024-11-27**|**Aligning Knowledge Concepts to Whole Slide Images for Precise Histopathology Image Analysis**|Weiqin Zhao et.al.|[2411.18101](http://arxiv.org/abs/2411.18101)|**[link](https://github.com/HKU-MedAI/ConcepPath)**|
 |**2024-11-27**|**VLM-HOI: Vision Language Models for Interpretable Human-Object Interaction Analysis**|Donggoo Kang et.al.|[2411.18038](http://arxiv.org/abs/2411.18038)|null|
-|**2024-11-27**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
+|**2024-11-28**|**Exploring Visual Vulnerabilities via Multi-Loss Adversarial Search for Jailbreaking Vision-Language Models**|Shuyang Hao et.al.|[2411.18000](http://arxiv.org/abs/2411.18000)|null|
 |**2024-11-26**|**What's in the Image? A Deep-Dive into the Vision of Vision Language Models**|Omri Kaduri et.al.|[2411.17491](http://arxiv.org/abs/2411.17491)|null|
 |**2024-11-26**|**VLRewardBench: A Challenging Benchmark for Vision-Language Generative Reward Models**|Lei Li et.al.|[2411.17451](http://arxiv.org/abs/2411.17451)|null|
 |**2024-11-26**|**CoA: Chain-of-Action for Generative Semantic Labels**|Meng Wei et.al.|[2411.17406](http://arxiv.org/abs/2411.17406)|**[link](https://github.com/WilsonMqz/CoA)**|
