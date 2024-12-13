@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-12**|**V2PE: Improving Multimodal Long-Context Capability of Vision-Language Models with Variable Visual Position Encoding**|Junqi Ge et.al.|[2412.09616](http://arxiv.org/abs/2412.09616)|**[link](https://github.com/opengvlab/v2pe)**|
+|**2024-12-12**|**PVC: Progressive Visual Token Compression for Unified Image and Video Processing in Large Vision-Language Models**|Chenyu Yang et.al.|[2412.09613](http://arxiv.org/abs/2412.09613)|null|
+|**2024-12-12**|**AgentTrek: Agent Trajectory Synthesis via Guiding Replay with Web Tutorials**|Yiheng Xu et.al.|[2412.09605](http://arxiv.org/abs/2412.09605)|null|
+|**2024-12-12**|**OLA-VLM: Elevating Visual Perception in Multimodal LLMs with Auxiliary Embedding Distillation**|Jitesh Jain et.al.|[2412.09585](http://arxiv.org/abs/2412.09585)|**[link](https://github.com/shi-labs/ola-vlm)**|
+|**2024-12-12**|**Neptune: The Long Orbit to Benchmarking Long Video Understanding**|Arsha Nagrani et.al.|[2412.09582](http://arxiv.org/abs/2412.09582)|**[link](https://github.com/google-deepmind/neptune)**|
+|**2024-12-12**|**Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM**|Han Wang et.al.|[2412.09530](http://arxiv.org/abs/2412.09530)|**[link](https://github.com/hon-wong/bytevideollm)**|
+|**2024-12-12**|**Efficient and Comprehensive Feature Extraction in Large Vision-Language Model for Clinical Pathology Analysis**|Shengxuming Zhang et.al.|[2412.09521](http://arxiv.org/abs/2412.09521)|null|
+|**2024-12-12**|**ATPrompt: Textual Prompt Learning with Embedded Attributes**|Zheng Li et.al.|[2412.09442](http://arxiv.org/abs/2412.09442)|null|
+|**2024-12-12**|**Causal Graphical Models for Vision-Language Compositional Understanding**|Fiorenzo Parascandolo et.al.|[2412.09353](http://arxiv.org/abs/2412.09353)|null|
+|**2024-12-12**|**Learning Novel Skills from Language-Generated Demonstrations**|Ao-Qun Jin et.al.|[2412.09286](http://arxiv.org/abs/2412.09286)|null|
 |**2024-12-11**|**Synthetic Vision: Training Vision-Language Models to Understand Physics**|Vahid Balazadeh et.al.|[2412.08619](http://arxiv.org/abs/2412.08619)|null|
 |**2024-12-12**|**Benchmarking Large Vision-Language Models via Directed Scene Graph for Comprehensive Image Captioning**|Fan Lu et.al.|[2412.08614](http://arxiv.org/abs/2412.08614)|**[link](https://github.com/lufan31/comprecap)**|
 |**2024-12-11**|**SenCLIP: Enhancing zero-shot land-use mapping for Sentinel-2 with ground-level prompting**|Pallavi Jain et.al.|[2412.08536](http://arxiv.org/abs/2412.08536)|**[link](https://github.com/pallavijain-pj/SenCLIP)**|
