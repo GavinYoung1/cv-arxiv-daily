@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**Emma-X: An Embodied Multimodal Action Model with Grounded Chain of Thought and Look-ahead Spatial Reasoning**|Qi Sun et.al.|[2412.11974](http://arxiv.org/abs/2412.11974)|**[link](https://github.com/declare-lab/emma-x)**|
+|**2024-12-16**|**Explainable Procedural Mistake Detection**|Shane Storks et.al.|[2412.11927](http://arxiv.org/abs/2412.11927)|null|
+|**2024-12-16**|**Does VLM Classification Benefit from LLM Description Semantics?**|Pingchuan Ma et.al.|[2412.11917](http://arxiv.org/abs/2412.11917)|null|
+|**2024-12-16**|**From 2D CAD Drawings to 3D Parametric Models: A Vision-Language Approach**|Xilin Wang et.al.|[2412.11892](http://arxiv.org/abs/2412.11892)|null|
+|**2024-12-16**|**LMM-Regularized CLIP Embeddings for Image Classification**|Maria Tzelepi et.al.|[2412.11663](http://arxiv.org/abs/2412.11663)|null|
+|**2024-12-16**|**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**|Shihan Wu et.al.|[2412.11509](http://arxiv.org/abs/2412.11509)|**[link](https://github.com/koorye/skiptuning)**|
+|**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
+|**2024-12-16**|**OmniVLM: A Token-Compressed, Sub-Billion-Parameter Vision-Language Model for Efficient On-Device Inference**|Wei Chen et.al.|[2412.11475](http://arxiv.org/abs/2412.11475)|null|
+|**2024-12-16**|**MaskCLIP++: A Mask-Based CLIP Fine-tuning Framework for Open-Vocabulary Image Segmentation**|Quan-Sheng Zeng et.al.|[2412.11464](http://arxiv.org/abs/2412.11464)|null|
+|**2024-12-16**|**Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes**|Antonio Carlos Rivera et.al.|[2412.11396](http://arxiv.org/abs/2412.11396)|null|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-13**|**A dual contrastive framework**|Yuan Sun et.al.|[2412.10348](http://arxiv.org/abs/2412.10348)|null|
 |**2024-12-13**|**DeepSeek-VL2: Mixture-of-Experts Vision-Language Models for Advanced Multimodal Understanding**|Zhiyu Wu et.al.|[2412.10302](http://arxiv.org/abs/2412.10302)|**[link](https://github.com/deepseek-ai/deepseek-vl2)**|
@@ -415,6 +425,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-12-16**|**View Transformation Robustness for Multi-View 3D Object Reconstruction with Reconstruction Error-Guided View Selection**|Qi Zhang et.al.|[2412.11428](http://arxiv.org/abs/2412.11428)|null|
 |**2024-07-10**|**EA-VTR: Event-Aware Video-Text Retrieval**|Zongyang Ma et.al.|[2407.07478](http://arxiv.org/abs/2407.07478)|null|
 |**2024-05-22**|**GMMFormer v2: An Uncertainty-aware Framework for Partially Relevant Video Retrieval**|Yuting Wang et.al.|[2405.13824](http://arxiv.org/abs/2405.13824)|**[link](https://github.com/huangmozhi9527/gmmformer_v2)**|
 |**2024-04-08**|**The role of non-scientific factors vis-a-vis the quality of publications in determining their scholarly impact**|Giovanni Abramo et.al.|[2404.05345](http://arxiv.org/abs/2404.05345)|null|
