@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-24**|**Explaining in Diffusion: Explaining a Classifier Through Hierarchical Semantics with Text-to-Image Diffusion Models**|Tahira Kazimi et.al.|[2412.18604](http://arxiv.org/abs/2412.18604)|null|
+|**2024-12-24**|**The Key of Understanding Vision Tasks: Explanatory Instructions**|Yang Shen et.al.|[2412.18525](http://arxiv.org/abs/2412.18525)|**[link](https://github.com/SEU-VIPGroup/Understanding_Vision_Tasks)**|
+|**2024-12-24**|**LongDocURL: a Comprehensive Multimodal Long Document Benchmark Integrating Understanding, Reasoning, and Locating**|Chao Deng et.al.|[2412.18424](http://arxiv.org/abs/2412.18424)|null|
+|**2024-12-24**|**Weak Scaling Capability in Token Space: An Observation from Large Vision Language Model**|Tenghui Li et.al.|[2412.18387](http://arxiv.org/abs/2412.18387)|null|
+|**2024-12-24**|**Efficient and Context-Aware Label Propagation for Zero-/Few-Shot Training-Free Adaptation of Vision-Language Model**|Yushu Li et.al.|[2412.18303](http://arxiv.org/abs/2412.18303)|null|
+|**2024-12-24**|**Quo Vadis, Anomaly Detection? LLMs and VLMs in the Spotlight**|Xi Ding et.al.|[2412.18298](http://arxiv.org/abs/2412.18298)|null|
+|**2024-12-24**|**Enhancing Multi-Robot Semantic Navigation Through Multimodal Chain-of-Thought Score Collaboration**|Zhixuan Shen et.al.|[2412.18292](http://arxiv.org/abs/2412.18292)|null|
+|**2024-12-24**|**Sampling Bag of Views for Open-Vocabulary Object Detection**|Hojun Choi et.al.|[2412.18273](http://arxiv.org/abs/2412.18273)|null|
+|**2024-12-24**|**VLABench: A Large-Scale Benchmark for Language-Conditioned Robotics Manipulation with Long-Horizon Reasoning Tasks**|Shiduo Zhang et.al.|[2412.18194](http://arxiv.org/abs/2412.18194)|null|
+|**2024-12-24**|**EvalMuse-40K: A Reliable and Fine-Grained Benchmark with Comprehensive Human Annotations for Text-to-Image Generation Model Evaluation**|Shuhao Han et.al.|[2412.18150](http://arxiv.org/abs/2412.18150)|null|
 |**2024-12-23**|**ChatGarment: Garment Estimation, Generation and Editing via Large Language Models**|Siyuan Bian et.al.|[2412.17811](http://arxiv.org/abs/2412.17811)|null|
 |**2024-12-23**|**Comprehensive Multi-Modal Prototypes are Simple and Effective Classifiers for Vast-Vocabulary Object Detection**|Yitong Chen et.al.|[2412.17800](http://arxiv.org/abs/2412.17800)|**[link](https://github.com/row11n/prova)**|
 |**2024-12-23**|**Cross-Lingual Text-Rich Visual Comprehension: An Information Theory Perspective**|Xinmiao Yu et.al.|[2412.17787](http://arxiv.org/abs/2412.17787)|null|
