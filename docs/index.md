@@ -32,10 +32,10 @@ layout: default
 |**2024-12-23**|**Personalized Large Vision-Language Models**|Chau Pham et.al.|[2412.17610](http://arxiv.org/abs/2412.17610)|null|
 |**2024-12-23**|**Retention Score: Quantifying Jailbreak Risks for Vision Language Models**|Zaitang Li et.al.|[2412.17544](http://arxiv.org/abs/2412.17544)|null|
 |**2024-12-23**|**Feature Based Methods Domain Adaptation for Object Detection: A Review Paper**|Helia Mohamadi et.al.|[2412.17325](http://arxiv.org/abs/2412.17325)|null|
-|**2024-12-23**|**On the Feasibility of Vision-Language Models for Time-Series Classification**|Vinay Prithyani et.al.|[2412.17304](http://arxiv.org/abs/2412.17304)|null|
+|**2024-12-23**|**On the Feasibility of Vision-Language Models for Time-Series Classification**|Vinay Prithyani et.al.|[2412.17304](http://arxiv.org/abs/2412.17304)|**[link](https://github.com/vinayp17/vlm_tsc)**|
 |**2024-12-23**|**GCS-M3VLT: Guided Context Self-Attention based Multi-modal Medical Vision Language Transformer for Retinal Image Captioning**|Teja Krishna Cherukuri et.al.|[2412.17251](http://arxiv.org/abs/2412.17251)|null|
 |**2024-12-20**|**HoVLE: Unleashing the Power of Monolithic Vision-Language Models with Holistic Vision-Language Embedding**|Chenxin Tao et.al.|[2412.16158](http://arxiv.org/abs/2412.16158)|null|
-|**2024-12-20**|**Frequency Is What You Need: Word-frequency Masking Benefits Vision-Language Model Pre-training**|Mingliang Liang et.al.|[2412.16148](http://arxiv.org/abs/2412.16148)|null|
+|**2024-12-20**|**Frequency Is What You Need: Word-frequency Masking Benefits Vision-Language Model Pre-training**|Mingliang Liang et.al.|[2412.16148](http://arxiv.org/abs/2412.16148)|**[link](https://github.com/mingliangliang3/clipf)**|
 |**2024-12-20**|**Demystifying the Potential of ChatGPT-4 Vision for Construction Progress Monitoring**|Ahmet Bahaddin Ersoz et.al.|[2412.16108](http://arxiv.org/abs/2412.16108)|null|
 |**2024-12-20**|**VORD: Visual Ordinal Calibration for Mitigating Object Hallucinations in Large Vision-Language Models**|Dexter Neo et.al.|[2412.15739](http://arxiv.org/abs/2412.15739)|null|
 |**2024-12-20**|**Multi-modal Agent Tuning: Building a VLM-Driven Agent for Efficient Tool Usage**|Zhi Gao et.al.|[2412.15606](http://arxiv.org/abs/2412.15606)|null|
@@ -80,7 +80,7 @@ layout: default
 |**2024-12-16**|**Skip Tuning: Pre-trained Vision-Language Models are Effective and Efficient Adapters Themselves**|Shihan Wu et.al.|[2412.11509](http://arxiv.org/abs/2412.11509)|**[link](https://github.com/koorye/skiptuning)**|
 |**2024-12-16**|**Efficient Policy Adaptation with Contrastive Prompt Ensemble for Embodied Agents**|Wonje Choi et.al.|[2412.11484](http://arxiv.org/abs/2412.11484)|null|
 |**2024-12-16**|**OmniVLM: A Token-Compressed, Sub-Billion-Parameter Vision-Language Model for Efficient On-Device Inference**|Wei Chen et.al.|[2412.11475](http://arxiv.org/abs/2412.11475)|null|
-|**2024-12-16**|**MaskCLIP++: A Mask-Based CLIP Fine-tuning Framework for Open-Vocabulary Image Segmentation**|Quan-Sheng Zeng et.al.|[2412.11464](http://arxiv.org/abs/2412.11464)|null|
+|**2024-12-16**|**MaskCLIP++: A Mask-Based CLIP Fine-tuning Framework for Open-Vocabulary Image Segmentation**|Quan-Sheng Zeng et.al.|[2412.11464](http://arxiv.org/abs/2412.11464)|**[link](https://github.com/hvision-nku/maskclippp)**|
 |**2024-12-16**|**Leveraging Retrieval-Augmented Tags for Large Vision-Language Understanding in Complex Scenes**|Antonio Carlos Rivera et.al.|[2412.11396](http://arxiv.org/abs/2412.11396)|null|
 |**2024-12-13**|**UniMed-CLIP: Towards a Unified Image-Text Pretraining Paradigm for Diverse Medical Imaging Modalities**|Muhammad Uzair Khattak et.al.|[2412.10372](http://arxiv.org/abs/2412.10372)|**[link](https://github.com/mbzuai-oryx/unimed-clip)**|
 |**2024-12-13**|**A dual contrastive framework**|Yuan Sun et.al.|[2412.10348](http://arxiv.org/abs/2412.10348)|null|
