@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2024-12-30**|**Vinci: A Real-time Embodied Smart Assistant based on Egocentric Vision-Language Model**|Yifei Huang et.al.|[2412.21080](http://arxiv.org/abs/2412.21080)|**[link](https://github.com/opengvlab/vinci)**|
+|**2024-12-30**|**Plancraft: an evaluation dataset for planning with LLM agents**|Gautier Dagan et.al.|[2412.21033](http://arxiv.org/abs/2412.21033)|null|
+|**2024-12-30**|**UnrealZoo: Enriching Photo-realistic Virtual Worlds for Embodied AI**|Fangwei Zhong et.al.|[2412.20977](http://arxiv.org/abs/2412.20977)|null|
+|**2024-12-30**|**Low-Light Image Enhancement via Generative Perceptual Priors**|Han Zhou et.al.|[2412.20916](http://arxiv.org/abs/2412.20916)|null|
+|**2024-12-30**|**WalkVLM:Aid Visually Impaired People Walking by Vision Language Model**|Zhiqiang Yuan et.al.|[2412.20903](http://arxiv.org/abs/2412.20903)|null|
+|**2024-12-30**|**Towards Compatible Fine-tuning for Vision-Language Model Updates**|Zhengbo Wang et.al.|[2412.20895](http://arxiv.org/abs/2412.20895)|null|
+|**2024-12-30**|**ReStory: VLM-augmentation of Social Human-Robot Interaction Datasets**|Fanjun Bu et.al.|[2412.20826](http://arxiv.org/abs/2412.20826)|null|
+|**2024-12-30**|**Are Vision-Language Models Truly Understanding Multi-vision Sensor?**|Sangyun Chung et.al.|[2412.20750](http://arxiv.org/abs/2412.20750)|**[link](https://github.com/top-yun/ms-pr)**|
+|**2024-12-30**|**UniRS: Unifying Multi-temporal Remote Sensing Tasks through Vision Language Models**|Yujie Li et.al.|[2412.20742](http://arxiv.org/abs/2412.20742)|null|
+|**2024-12-30**|**M $^3$ oralBench: A MultiModal Moral Benchmark for LVLMs**|Bei Yan et.al.|[2412.20718](http://arxiv.org/abs/2412.20718)|null|
 |**2024-12-27**|**MVTamperBench: Evaluating Robustness of Vision-Language Models**|Amit Agarwal et.al.|[2412.19794](http://arxiv.org/abs/2412.19794)|null|
 |**2024-12-27**|**OS-Genesis: Automating GUI Agent Trajectory Construction via Reverse Task Synthesis**|Qiushi Sun et.al.|[2412.19723](http://arxiv.org/abs/2412.19723)|null|
 |**2024-12-27**|**Is Your Text-to-Image Model Robust to Caption Noise?**|Weichen Yu et.al.|[2412.19531](http://arxiv.org/abs/2412.19531)|null|
