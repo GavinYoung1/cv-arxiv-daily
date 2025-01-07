@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-06**|**Automated Generation of Challenging Multiple-Choice Questions for Vision Language Model Evaluation**|Yuhui Zhang et.al.|[2501.03225](http://arxiv.org/abs/2501.03225)|**[link](https://github.com/yuhui-zh15/autoconverter)**|
+|**2025-01-06**|**Large language models for artificial general intelligence (AGI): A survey of foundational principles and approaches**|Alhassan Mumuni et.al.|[2501.03151](http://arxiv.org/abs/2501.03151)|null|
+|**2025-01-06**|**Analyzing Fine-tuning Representation Shift for Multimodal LLMs Steering alignment**|Pegah Khayatan et.al.|[2501.03012](http://arxiv.org/abs/2501.03012)|**[link](https://github.com/mshukor/xl-vlms)**|
+|**2025-01-06**|**MotionBench: Benchmarking and Improving Fine-grained Video Motion Understanding for Vision Language Models**|Wenyi Hong et.al.|[2501.02955](http://arxiv.org/abs/2501.02955)|null|
+|**2025-01-06**|**Label-free Concept Based Multiple Instance Learning for Gigapixel Histopathology**|Susu Sun et.al.|[2501.02922](http://arxiv.org/abs/2501.02922)|null|
+|**2025-01-06**|**Large Language Models for Video Surveillance Applications**|Ulindu De Silva et.al.|[2501.02850](http://arxiv.org/abs/2501.02850)|null|
+|**2025-01-06**|**Visual Large Language Models for Generalized and Specialized Applications**|Yifan Li et.al.|[2501.02765](http://arxiv.org/abs/2501.02765)|**[link](https://github.com/jackyfl/awesome-vllms)**|
+|**2025-01-05**|**Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?**|Simon Park et.al.|[2501.02669](http://arxiv.org/abs/2501.02669)|**[link](https://github.com/princeton-pli/vlm_s2h)**|
+|**2025-01-05**|**Efficient Architectures for High Resolution Vision-Language Models**|Miguel Carvalho et.al.|[2501.02584](http://arxiv.org/abs/2501.02584)|null|
+|**2025-01-05**|**FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models**|Hui Lin et.al.|[2501.02461](http://arxiv.org/abs/2501.02461)|null|
 |**2025-01-03**|**Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding**|Jiaming Li et.al.|[2501.01926](http://arxiv.org/abs/2501.01926)|null|
 |**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
 |**2025-01-03**|**LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction**|Er Jin et.al.|[2501.01767](http://arxiv.org/abs/2501.01767)|null|
