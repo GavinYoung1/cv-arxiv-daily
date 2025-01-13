@@ -37,8 +37,8 @@
 |**2025-01-08**|**Eve: Efficient Multimodal Vision Language Models with Elastic Visual Experts**|Miao Rang et.al.|[2501.04322](http://arxiv.org/abs/2501.04322)|null|
 |**2025-01-08**|**Robotic Programmer: Video Instructed Policy Code Generation for Robotic Manipulation**|Senwei Xie et.al.|[2501.04268](http://arxiv.org/abs/2501.04268)|null|
 |**2025-01-07**|**MM-GEN: Enhancing Task Performance Through Targeted Multimodal Data Curation**|Siddharth Joshi et.al.|[2501.04155](http://arxiv.org/abs/2501.04155)|**[link](https://github.com/sjoshi804/mm-gen)**|
-|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|null|
-|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|null|
+|**2025-01-07**|**Are VLMs Ready for Autonomous Driving? An Empirical Study from the Reliability, Data, and Metric Perspectives**|Shaoyuan Xie et.al.|[2501.04003](http://arxiv.org/abs/2501.04003)|**[link](https://github.com/opendrivelab/drivelm)**|
+|**2025-01-07**|**Sa2VA: Marrying SAM2 with LLaVA for Dense Grounded Understanding of Images and Videos**|Haobo Yuan et.al.|[2501.04001](http://arxiv.org/abs/2501.04001)|**[link](https://github.com/magic-research/Sa2VA)**|
 |**2025-01-07**|**RAG-Check: Evaluating Multimodal Retrieval Augmented Generation Performance**|Matin Mortaheb et.al.|[2501.03995](http://arxiv.org/abs/2501.03995)|null|
 |**2025-01-07**|**VLM-driven Behavior Tree for Context-aware Task Planning**|Naoki Wake et.al.|[2501.03968](http://arxiv.org/abs/2501.03968)|null|
 |**2025-01-07**|**Vision Language Models as Values Detectors**|Giulio Antonio Abbo et.al.|[2501.03957](http://arxiv.org/abs/2501.03957)|null|
@@ -55,7 +55,7 @@
 |**2025-01-06**|**Large Language Models for Video Surveillance Applications**|Ulindu De Silva et.al.|[2501.02850](http://arxiv.org/abs/2501.02850)|null|
 |**2025-01-06**|**Visual Large Language Models for Generalized and Specialized Applications**|Yifan Li et.al.|[2501.02765](http://arxiv.org/abs/2501.02765)|**[link](https://github.com/jackyfl/awesome-vllms)**|
 |**2025-01-05**|**Generalizing from SIMPLE to HARD Visual Reasoning: Can We Mitigate Modality Imbalance in VLMs?**|Simon Park et.al.|[2501.02669](http://arxiv.org/abs/2501.02669)|**[link](https://github.com/princeton-pli/vlm_s2h)**|
-|**2025-01-05**|**Efficient Architectures for High Resolution Vision-Language Models**|Miguel Carvalho et.al.|[2501.02584](http://arxiv.org/abs/2501.02584)|null|
+|**2025-01-05**|**Efficient Architectures for High Resolution Vision-Language Models**|Miguel Carvalho et.al.|[2501.02584](http://arxiv.org/abs/2501.02584)|**[link](https://github.com/miguelscarv/pheye)**|
 |**2025-01-05**|**FedRSClip: Federated Learning for Remote Sensing Scene Classification Using Vision-Language Models**|Hui Lin et.al.|[2501.02461](http://arxiv.org/abs/2501.02461)|null|
 |**2025-01-03**|**Mitigating Hallucination for Large Vision Language Model by Inter-Modality Correlation Calibration Decoding**|Jiaming Li et.al.|[2501.01926](http://arxiv.org/abs/2501.01926)|null|
 |**2025-01-03**|**MoColl: Agent-Based Specific and General Model Collaboration for Image Captioning**|Pu Yang et.al.|[2501.01834](http://arxiv.org/abs/2501.01834)|null|
@@ -189,7 +189,7 @@
 |**2024-12-11**|**TextRefiner: Internal Visual Feature as Efficient Refiner for Vision-Language Models Prompt Tuning**|Jingjing Xie et.al.|[2412.08176](http://arxiv.org/abs/2412.08176)|**[link](https://github.com/xjjxmu/textrefiner)**|
 |**2024-12-11**|**Progressive Multi-granular Alignments for Grounded Reasoning in Large Vision-Language Models**|Quang-Hung Le et.al.|[2412.08125](http://arxiv.org/abs/2412.08125)|**[link](https://github.com/lqh52/promvil)**|
 |**2024-12-11**|**Seeing Syntax: Uncovering Syntactic Learning Limitations in Vision-Language Models**|Sri Harsha Dumpala et.al.|[2412.08111](http://arxiv.org/abs/2412.08111)|null|
-|**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|null|
+|**2024-12-10**|**RADIO Amplified: Improved Baselines for Agglomerative Vision Foundation Models**|Greg Heinrich et.al.|[2412.07679](http://arxiv.org/abs/2412.07679)|**[link](https://github.com/nvlabs/radio)**|
 |**2024-12-10**|**DRUM: Learning Demonstration Retriever for Large MUlti-modal Models**|Ellen Yi-Ge et.al.|[2412.07619](http://arxiv.org/abs/2412.07619)|null|
 |**2024-12-10**|**Hallucination Elimination and Semantic Enhancement Framework for Vision-Language Models in Traffic Scenarios**|Jiaqi Fan et.al.|[2412.07518](http://arxiv.org/abs/2412.07518)|**[link](https://github.com/fjq-tongji/hcoenet)**|
 |**2024-12-10**|**SmartAgent: Chain-of-User-Thought for Embodied Personalized Agent in Cyber World**|Jiaqi Zhang et.al.|[2412.07472](http://arxiv.org/abs/2412.07472)|**[link](https://github.com/tsinghua-fib-lab/smartagent)**|
@@ -534,7 +534,7 @@
 |**2024-10-09**|**Pixtral 12B**|Pravesh Agrawal et.al.|[2410.07073](http://arxiv.org/abs/2410.07073)|**[link](https://github.com/mistralai/mistral-inference)**|
 |**2024-10-09**|**Clean Evaluations on Contaminated Visual Language Models**|Hongyuan Lu et.al.|[2410.07030](http://arxiv.org/abs/2410.07030)|null|
 |**2024-10-09**|**Preference Fine-Tuning for Factuality in Chest X-Ray Interpretation Models Without Human Feedback**|Dennis Hein et.al.|[2410.07025](http://arxiv.org/abs/2410.07025)|null|
-|**2024-10-09**|**$\texttt{ModSCAN}$ : Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities**|Yukun Jiang et.al.|[2410.06967](http://arxiv.org/abs/2410.06967)|null|
+|**2024-10-09**|**$\texttt{ModSCAN}$ : Measuring Stereotypical Bias in Large Vision-Language Models from Vision and Language Modalities**|Yukun Jiang et.al.|[2410.06967](http://arxiv.org/abs/2410.06967)|**[link](https://github.com/TrustAIRLab/ModSCAN)**|
 |**2024-10-09**|**Compositional Entailment Learning for Hyperbolic Vision-Language Models**|Avik Pal et.al.|[2410.06912](http://arxiv.org/abs/2410.06912)|null|
 |**2024-10-09**|**From Pixels to Tokens: Revisiting Object Hallucinations in Large Vision-Language Models**|Yuying Shang et.al.|[2410.06795](http://arxiv.org/abs/2410.06795)|null|
 |**2024-10-07**|**Fine-Tuning CLIP's Last Visual Projector: A Few-Shot Cornucopia**|Mohammad Fahes et.al.|[2410.05270](http://arxiv.org/abs/2410.05270)|**[link](https://github.com/astra-vision/prolip)**|
