@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**SST-EM: Advanced Metrics for Evaluating Semantic, Spatial and Temporal Aspects in Video Editing**|Varun Biyyala et.al.|[2501.07554](http://arxiv.org/abs/2501.07554)|**[link](https://github.com/custommetrics-sst/sst_customevaluationmetrics)**|
+|**2025-01-13**|**RadAlign: Advancing Radiology Report Generation with Vision-Language Concept Alignment**|Difei Gu et.al.|[2501.07525](http://arxiv.org/abs/2501.07525)|**[link](https://github.com/difeigu/radalign)**|
+|**2025-01-13**|**Zero-Shot Scene Understanding for Automatic Target Recognition Using Large Vision-Language Models**|Yasiru Ranasinghe et.al.|[2501.07396](http://arxiv.org/abs/2501.07396)|null|
+|**2025-01-13**|**GestLLM: Advanced Hand Gesture Interpretation via Large Language Models for Human-Robot Interaction**|Oleg Kobzarev et.al.|[2501.07295](http://arxiv.org/abs/2501.07295)|null|
+|**2025-01-13**|**Can Vision-Language Models Evaluate Handwritten Math?**|Oikantik Nath et.al.|[2501.07244](http://arxiv.org/abs/2501.07244)|null|
+|**2025-01-13**|**TimeLogic: A Temporal Logic Benchmark for Video QA**|Sirnam Swetha et.al.|[2501.07214](http://arxiv.org/abs/2501.07214)|null|
+|**2025-01-13**|**BIOMEDICA: An Open Biomedical Image-Caption Archive, Dataset, and Vision-Language Models Derived from Scientific Literature**|Alejandro Lozano et.al.|[2501.07171](http://arxiv.org/abs/2501.07171)|**[link](https://github.com/minwoosun/biomedica-etl)**|
+|**2025-01-13**|**Duplex: Dual Prototype Learning for Compositional Zero-Shot Learning**|Zhong Peng et.al.|[2501.07114](http://arxiv.org/abs/2501.07114)|null|
+|**2025-01-12**|**MedGrad E-CLIP: Enhancing Trust and Transparency in AI-Driven Skin Lesion Diagnosis**|Sadia Kamal et.al.|[2501.06887](http://arxiv.org/abs/2501.06887)|null|
+|**2025-01-12**|**Application of Vision-Language Model to Pedestrians Behavior and Scene Understanding in Autonomous Driving**|Haoxiang Gao et.al.|[2501.06680](http://arxiv.org/abs/2501.06680)|null|
 |**2025-01-10**|**VideoAuteur: Towards Long Narrative Video Generation**|Junfei Xiao et.al.|[2501.06173](http://arxiv.org/abs/2501.06173)|null|
 |**2025-01-10**|**CoDriveVLM: VLM-Enhanced Urban Cooperative Dispatching and Motion Planning for Future Autonomous Mobility on Demand Systems**|Haichao Liu et.al.|[2501.06132](http://arxiv.org/abs/2501.06132)|null|
 |**2025-01-10**|**Generate, Transduct, Adapt: Iterative Transduction with VLMs**|Oindrila Saha et.al.|[2501.06031](http://arxiv.org/abs/2501.06031)|null|
@@ -564,6 +574,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-12**|**Monolithic 3D FPGAs Utilizing Back-End-of-Line Configuration Memories**|Faaiq Waqar et.al.|[2501.06921](http://arxiv.org/abs/2501.06921)|null|
 |**2024-12-16**|**View Transformation Robustness for Multi-View 3D Object Reconstruction with Reconstruction Error-Guided View Selection**|Qi Zhang et.al.|[2412.11428](http://arxiv.org/abs/2412.11428)|null|
 |**2024-07-10**|**EA-VTR: Event-Aware Video-Text Retrieval**|Zongyang Ma et.al.|[2407.07478](http://arxiv.org/abs/2407.07478)|null|
 |**2024-05-22**|**GMMFormer v2: An Uncertainty-aware Framework for Partially Relevant Video Retrieval**|Yuting Wang et.al.|[2405.13824](http://arxiv.org/abs/2405.13824)|**[link](https://github.com/huangmozhi9527/gmmformer_v2)**|
@@ -583,6 +594,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-13**|**Event-based Video Person Re-identification via Cross-Modality and Temporal Collaboration**|Renkai Li et.al.|[2501.07296](http://arxiv.org/abs/2501.07296)|null|
 |**2024-12-23**|**Unity is Strength: Unifying Convolutional and Transformeral Features for Better Person Re-Identification**|Yuhao Wang et.al.|[2412.17239](http://arxiv.org/abs/2412.17239)|**[link](https://github.com/924973292/fusionreid)**|
 |**2024-12-06**|**Mix-Modality Person Re-Identification: A New and Practical Paradigm**|Wei Liu et.al.|[2412.04719](http://arxiv.org/abs/2412.04719)|null|
 |**2024-12-02**|**Cerberus: Attribute-based person re-identification using semantic IDs**|Chanho Eom et.al.|[2412.01048](http://arxiv.org/abs/2412.01048)|null|
