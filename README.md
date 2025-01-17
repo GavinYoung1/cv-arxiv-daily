@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-16**|**Mitigating Hallucinations in Large Vision-Language Models via DPO: On-Policy Data Hold the Key**|Zhihe Yang et.al.|[2501.09695](http://arxiv.org/abs/2501.09695)|null|
+|**2025-01-16**|**Robin: a Suite of Multi-Scale Vision-Language Models and the CHIRP Evaluation Benchmark**|Alexis Roger et.al.|[2501.09672](http://arxiv.org/abs/2501.09672)|null|
+|**2025-01-16**|**AdaFV: Accelerating VLMs with Self-Adaptive Cross-Modality Attention Mixture**|Jiayi Han et.al.|[2501.09532](http://arxiv.org/abs/2501.09532)|null|
+|**2025-01-16**|**Double Visual Defense: Adversarial Pre-training and Instruction Tuning for Improving Vision-Language Model Robustness**|Zeyu Wang et.al.|[2501.09446](http://arxiv.org/abs/2501.09446)|null|
+|**2025-01-16**|**Vision-Language Models Do Not Understand Negation**|Kumail Alhamoud et.al.|[2501.09425](http://arxiv.org/abs/2501.09425)|null|
+|**2025-01-16**|**YETI (YET to Intervene) Proactive Interventions by Multimodal AI Agents in Augmented Reality Tasks**|Saptarashmi Bandyopadhyay et.al.|[2501.09355](http://arxiv.org/abs/2501.09355)|null|
+|**2025-01-16**|**RoboReflect: Robotic Reflective Reasoning for Grasping Ambiguous-Condition Objects**|Zhen Luo et.al.|[2501.09307](http://arxiv.org/abs/2501.09307)|null|
+|**2025-01-16**|**Efficient Few-Shot Medical Image Analysis via Hierarchical Contrastive Vision-Language Learning**|Harrison Fuller et.al.|[2501.09294](http://arxiv.org/abs/2501.09294)|null|
+|**2025-01-16**|**Are Open-Vocabulary Models Ready for Detection of MEP Elements on Construction Sites**|Abdalwhab Abdalwhab et.al.|[2501.09267](http://arxiv.org/abs/2501.09267)|null|
+|**2025-01-16**|**Exploring the Capabilities of Vision-Language Models to Detect Visual Bugs in HTML5 <canvas> Applications**|Finlay Macklon et.al.|[2501.09236](http://arxiv.org/abs/2501.09236)|null|
 |**2025-01-15**|**CityLoc: 6 DoF Localization of Text Descriptions in Large-Scale Scenes with Gaussian Representation**|Qi Ma et.al.|[2501.08982](http://arxiv.org/abs/2501.08982)|null|
 |**2025-01-15**|**MMDocIR: Benchmarking Multi-Modal Retrieval for Long Documents**|Kuicai Dong et.al.|[2501.08828](http://arxiv.org/abs/2501.08828)|null|
 |**2025-01-15**|**Dynamic Knowledge Integration for Enhanced Vision-Language Reasoning**|Julian Perry et.al.|[2501.08597](http://arxiv.org/abs/2501.08597)|null|
