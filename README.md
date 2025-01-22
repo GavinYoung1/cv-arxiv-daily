@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-01-21**|**InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model**|Yuhang Zang et.al.|[2501.12368](http://arxiv.org/abs/2501.12368)|**[link](https://github.com/internlm/internlm-xcomposer)**|
+|**2025-01-21**|**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**|Md. Rakibul Islam et.al.|[2501.12356](http://arxiv.org/abs/2501.12356)|null|
+|**2025-01-21**|**CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification**|Cristiano Patrício et.al.|[2501.12266](http://arxiv.org/abs/2501.12266)|null|
+|**2025-01-21**|**Fixing Imbalanced Attention to Mitigate In-Context Hallucination of Large Vision-Language Model**|Kazi Hasan Ibn Arif et.al.|[2501.12206](http://arxiv.org/abs/2501.12206)|null|
+|**2025-01-20**|**Human-AI Collaborative Game Testing with Vision Language Models**|Boran Zhang et.al.|[2501.11782](http://arxiv.org/abs/2501.11782)|null|
+|**2025-01-20**|**SimLabel: Consistency-Guided OOD Detection with Pretrained Vision-Language Models**|Shu Zou et.al.|[2501.11485](http://arxiv.org/abs/2501.11485)|**[link](https://github.com/shuzou-1/simlabel)**|
+|**2025-01-20**|**Verifying Cross-modal Entity Consistency in News using Vision-language Models**|Sahar Tahmasebi et.al.|[2501.11403](http://arxiv.org/abs/2501.11403)|null|
+|**2025-01-20**|**KPL: Training-Free Medical Knowledge Mining of Vision-Language Models**|Jiaxiang Liu et.al.|[2501.11231](http://arxiv.org/abs/2501.11231)|**[link](https://github.com/jxliu-ai/kpl)**|
+|**2025-01-19**|**ProKeR: A Kernel Perspective on Few-Shot Adaptation of Large Vision-Language Models**|Yassir Bendou et.al.|[2501.11175](http://arxiv.org/abs/2501.11175)|null|
+|**2025-01-19**|**Advancing General Multimodal Capability of Vision-language Models with Pyramid-descent Visual Position Encoding**|Zhanpeng Chen et.al.|[2501.10967](http://arxiv.org/abs/2501.10967)|**[link](https://github.com/sakuratroychen/pype)**|
 |**2025-01-17**|**HiMix: Reducing Computational Complexity in Large Vision-Language Models**|Xuange Zhang et.al.|[2501.10318](http://arxiv.org/abs/2501.10318)|null|
 |**2025-01-17**|**SpatialCoT: Advancing Spatial Reasoning through Coordinate Alignment and Chain-of-Thought for Embodied Task Planning**|Yuecheng Liu et.al.|[2501.10074](http://arxiv.org/abs/2501.10074)|null|
 |**2025-01-17**|**CLIP-PCQA: Exploring Subjective-Aligned Vision-Language Modeling for Point Cloud Quality Assessment**|Yating Liu et.al.|[2501.10071](http://arxiv.org/abs/2501.10071)|null|
