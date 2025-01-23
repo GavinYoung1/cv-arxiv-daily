@@ -14,6 +14,11 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-01-22**|**Patent Figure Classification using Large Vision-language Models**|Sushil Awale et.al.|[2501.12751](http://arxiv.org/abs/2501.12751)|**[link](https://github.com/tibhannover/patent-figure-classification)**|
+|**2025-01-22**|**TeD-Loc: Text Distillation for Weakly Supervised Object Localization**|Shakeeb Murtaza et.al.|[2501.12632](http://arxiv.org/abs/2501.12632)|**[link](https://github.com/shakeebmurtaza/tedloc)**|
+|**2025-01-22**|**ViDDAR: Vision Language Model-Based Task-Detrimental Content Detection for Augmented Reality**|Yanming Xiu et.al.|[2501.12553](http://arxiv.org/abs/2501.12553)|**[link](https://github.com/ym-xiu/viddar-dataset)**|
+|**2025-01-21**|**Owls are wise and foxes are unfaithful: Uncovering animal stereotypes in vision-language models**|Tabinda Aman et.al.|[2501.12433](http://arxiv.org/abs/2501.12433)|null|
+|**2025-01-20**|**ImageRef-VL: Enabling Contextual Image Referencing in Vision-Language Models**|Jingwei Yi et.al.|[2501.12418](http://arxiv.org/abs/2501.12418)|**[link](https://github.com/bytedance/imageref-vl)**|
 |**2025-01-21**|**InternLM-XComposer2.5-Reward: A Simple Yet Effective Multi-Modal Reward Model**|Yuhang Zang et.al.|[2501.12368](http://arxiv.org/abs/2501.12368)|**[link](https://github.com/internlm/internlm-xcomposer)**|
 |**2025-01-21**|**Vision-Language Models for Automated Chest X-ray Interpretation: Leveraging ViT and GPT-2**|Md. Rakibul Islam et.al.|[2501.12356](http://arxiv.org/abs/2501.12356)|null|
 |**2025-01-21**|**CBVLM: Training-free Explainable Concept-based Large Vision Language Models for Medical Image Classification**|Cristiano Patrício et.al.|[2501.12266](http://arxiv.org/abs/2501.12266)|null|
