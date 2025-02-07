@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-06**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328](http://arxiv.org/abs/2502.04328)|null|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
+|**2025-02-06**|**Éclair -- Extracting Content and Layout with Integrated Reading Order for Documents**|Ilia Karmanov et.al.|[2502.04223](http://arxiv.org/abs/2502.04223)|null|
+|**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/abs/2502.04144)|null|
+|**2025-02-06**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
+|**2025-02-06**|**CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing**|Yu Yuan et.al.|[2502.03997](http://arxiv.org/abs/2502.03997)|null|
+|**2025-02-06**|**Adapting Human Mesh Recovery with Vision-Language Feedback**|Chongyang Xu et.al.|[2502.03836](http://arxiv.org/abs/2502.03836)|null|
+|**2025-02-05**|**The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering**|Zhuowei Li et.al.|[2502.03628](http://arxiv.org/abs/2502.03628)|null|
+|**2025-02-05**|**DynVFX: Augmenting Real Videos with Dynamic Content**|Danah Yatim et.al.|[2502.03621](http://arxiv.org/abs/2502.03621)|null|
+|**2025-02-05**|**EnVisionVR: A Scene Interpretation Tool for Visual Accessibility in Virtual Reality**|Junlong Chen et.al.|[2502.03564](http://arxiv.org/abs/2502.03564)|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459](http://arxiv.org/abs/2502.03459)|null|
 |**2025-02-05**|**RadVLM: A Multitask Conversational Vision-Language Model for Radiology**|Nicolas Deperrois et.al.|[2502.03333](http://arxiv.org/abs/2502.03333)|null|
 |**2025-02-05**|**Efficient Vision Language Model Fine-tuning for Text-based Person Anomaly Search**|Jiayi He et.al.|[2502.03230](http://arxiv.org/abs/2502.03230)|null|
