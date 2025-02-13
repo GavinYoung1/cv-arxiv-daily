@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-02-12**|**A Real-to-Sim-to-Real Approach to Robotic Manipulation with VLM-Generated Iterative Keypoint Rewards**|Shivansh Patel et.al.|[2502.08643](http://arxiv.org/abs/2502.08643)|null|
+|**2025-02-12**|**SwiftSketch: A Diffusion Model for Image-to-Vector Sketch Generation**|Ellie Arar et.al.|[2502.08642](http://arxiv.org/abs/2502.08642)|null|
+|**2025-02-12**|**Revisiting 3D LLM Benchmarks: Are We Really Testing 3D Capabilities?**|Jiahe Jin et.al.|[2502.08503](http://arxiv.org/abs/2502.08503)|null|
+|**2025-02-12**|**ViLa-MIL: Dual-scale Vision-Language Multiple Instance Learning for Whole Slide Image Classification**|Jiangbo Shi et.al.|[2502.08391](http://arxiv.org/abs/2502.08391)|null|
+|**2025-02-12**|**Mitigating Hallucinations in Multimodal Spatial Relations through Constraint-Aware Prompting**|Jiarui Wu et.al.|[2502.08317](http://arxiv.org/abs/2502.08317)|null|
+|**2025-02-12**|**TRISHUL: Towards Region Identification and Screen Hierarchy Understanding for Large VLM based GUI Agents**|Kunal Singh et.al.|[2502.08226](http://arxiv.org/abs/2502.08226)|null|
+|**2025-02-12**|**Typographic Attacks in a Multi-Image Setting**|Xiaomeng Wang et.al.|[2502.08193](http://arxiv.org/abs/2502.08193)|null|
+|**2025-02-12**|**SARChat-Bench-2M: A Multi-Task Vision-Language Benchmark for SAR Image Interpretation**|Zhiming Ma et.al.|[2502.08168](http://arxiv.org/abs/2502.08168)|null|
+|**2025-02-12**|**MAA: Meticulous Adversarial Attack against Vision-Language Pre-trained Models**|Peng-Fei Zhang et.al.|[2502.08079](http://arxiv.org/abs/2502.08079)|null|
+|**2025-02-11**|**Intrinsic Bias is Predicted by Pretraining Data and Correlates with Downstream Performance in Vision-Language Encoders**|Kshitish Ghate et.al.|[2502.07957](http://arxiv.org/abs/2502.07957)|null|
 |**2025-02-11**|**Scaling Pre-training to One Hundred Billion Data for Vision Language Models**|Xiao Wang et.al.|[2502.07617](http://arxiv.org/abs/2502.07617)|null|
 |**2025-02-11**|**MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification**|Anh-Tien Nguyen et.al.|[2502.07409](http://arxiv.org/abs/2502.07409)|null|
 |**2025-02-11**|**TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation**|Navid Rajabi et.al.|[2502.07306](http://arxiv.org/abs/2502.07306)|null|
