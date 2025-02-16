@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.15
+## Updated on 2025.02.16
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLM
@@ -17,7 +17,7 @@ layout: default
 |**2025-02-13**|**GAIA: A Global, Multi-modal, Multi-scale Vision-Language Dataset for Remote Sensing Image Analysis**|Angelos Zavras et.al.|[2502.09598](http://arxiv.org/abs/2502.09598)|null|
 |**2025-02-13**|**When and How Does CLIP Enable Domain and Compositional Generalization?**|Elias Kempf et.al.|[2502.09507](http://arxiv.org/abs/2502.09507)|null|
 |**2025-02-13**|**OpenBench: A New Benchmark and Baseline for Semantic Navigation in Smart Logistics**|Junhui Wang et.al.|[2502.09238](http://arxiv.org/abs/2502.09238)|null|
-|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[2502.09170](http://arxiv.org/abs/2502.09170)|null|
+|**2025-02-13**|**LimSim Series: An Autonomous Driving Simulation Platform for Validation and Enhancement**|Daocheng Fu et.al.|[2502.09170](http://arxiv.org/abs/2502.09170)|**[link](https://github.com/PJLab-ADG/LimSim)**|
 |**2025-02-13**|**The influence of visual and linguistic cues on ignorance inference in Vision-Language Models (VLMs)**|Ye-eun Cho et.al.|[2502.09120](http://arxiv.org/abs/2502.09120)|null|
 |**2025-02-13**|**Vision-Language In-Context Learning Driven Few-Shot Visual Inspection Model**|Shiryu Ueno et.al.|[2502.09057](http://arxiv.org/abs/2502.09057)|null|
 |**2025-02-13**|**AIDE: Agentically Improve Visual Language Model with Domain Experts**|Ming-Chang Chiu et.al.|[2502.09051](http://arxiv.org/abs/2502.09051)|null|
