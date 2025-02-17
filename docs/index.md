@@ -35,33 +35,33 @@ layout: default
 |**2025-02-12**|**MAA: Meticulous Adversarial Attack against Vision-Language Pre-trained Models**|Peng-Fei Zhang et.al.|[2502.08079](http://arxiv.org/abs/2502.08079)|null|
 |**2025-02-11**|**Intrinsic Bias is Predicted by Pretraining Data and Correlates with Downstream Performance in Vision-Language Encoders**|Kshitish Ghate et.al.|[2502.07957](http://arxiv.org/abs/2502.07957)|null|
 |**2025-02-11**|**Scaling Pre-training to One Hundred Billion Data for Vision Language Models**|Xiao Wang et.al.|[2502.07617](http://arxiv.org/abs/2502.07617)|null|
-|**2025-02-11**|**MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification**|Anh-Tien Nguyen et.al.|[2502.07409](http://arxiv.org/abs/2502.07409)|null|
+|**2025-02-11**|**MGPATH: Vision-Language Model with Multi-Granular Prompt Learning for Few-Shot WSI Classification**|Anh-Tien Nguyen et.al.|[2502.07409](http://arxiv.org/abs/2502.07409)|**[link](https://github.com/HauschildLab/MGPATH)**|
 |**2025-02-11**|**TRAVEL: Training-Free Retrieval and Alignment for Vision-and-Language Navigation**|Navid Rajabi et.al.|[2502.07306](http://arxiv.org/abs/2502.07306)|null|
-|**2025-02-11**|**Space-Aware Instruction Tuning: Dataset and Benchmark for Guide Dog Robots Assisting the Visually Impaired**|ByungOk Han et.al.|[2502.07183](http://arxiv.org/abs/2502.07183)|null|
-|**2025-02-10**|**EVEv2: Improved Baselines for Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2502.06788](http://arxiv.org/abs/2502.06788)|null|
+|**2025-02-11**|**Space-Aware Instruction Tuning: Dataset and Benchmark for Guide Dog Robots Assisting the Visually Impaired**|ByungOk Han et.al.|[2502.07183](http://arxiv.org/abs/2502.07183)|**[link](https://github.com/byungokhan/space-awarevlm)**|
+|**2025-02-10**|**EVEv2: Improved Baselines for Encoder-Free Vision-Language Models**|Haiwen Diao et.al.|[2502.06788](http://arxiv.org/abs/2502.06788)|**[link](https://github.com/baaivision/eve)**|
 |**2025-02-10**|**Conformal Predictions for Human Action Recognition with Vision-Language Models**|Bary Tim et.al.|[2502.06631](http://arxiv.org/abs/2502.06631)|null|
 |**2025-02-10**|**Benchmarking Vision-Language Models on Optical Character Recognition in Dynamic Video Environments**|Sankalp Nagaonkar et.al.|[2502.06445](http://arxiv.org/abs/2502.06445)|**[link](https://github.com/video-db/ocr-benchmark)**|
 |**2025-02-10**|**AppVLM: A Lightweight Vision Language Model for Online App Control**|Georgios Papoudakis et.al.|[2502.06395](http://arxiv.org/abs/2502.06395)|null|
-|**2025-02-11**|**When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs**|Aobotao Dai et.al.|[2502.06390](http://arxiv.org/abs/2502.06390)|null|
+|**2025-02-11**|**When Data Manipulation Meets Attack Goals: An In-depth Survey of Attacks for VLMs**|Aobotao Dai et.al.|[2502.06390](http://arxiv.org/abs/2502.06390)|**[link](https://github.com/aobtdai/vlm_attack_paper_list)**|
 |**2025-02-10**|**Self-Correcting Decoding with Generative Feedback for Mitigating Hallucinations in Large Vision-Language Models**|Ce Zhang et.al.|[2502.06130](http://arxiv.org/abs/2502.06130)|null|
 |**2025-02-10**|**Fair-MoE: Fairness-Oriented Mixture of Experts in Vision-Language Models**|Peiran Wang et.al.|[2502.06094](http://arxiv.org/abs/2502.06094)|null|
 |**2025-02-09**|**Noise is an Efficient Learner for Zero-Shot Vision-Language Models**|Raza Imam et.al.|[2502.06019](http://arxiv.org/abs/2502.06019)|null|
 |**2025-02-09**|**Uni-Retrieval: A Multi-Style Retrieval Framework for STEM's Education**|Yanhao Jia et.al.|[2502.05863](http://arxiv.org/abs/2502.05863)|null|
 |**2025-02-09**|**DexVLA: Vision-Language Model with Plug-In Diffusion Expert for General Robot Control**|Junjie Wen et.al.|[2502.05855](http://arxiv.org/abs/2502.05855)|null|
-|**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/abs/2502.05177)|null|
+|**2025-02-07**|**Long-VITA: Scaling Large Multi-modal Models to 1 Million Tokens with Leading Short-Context Accuray**|Yunhang Shen et.al.|[2502.05177](http://arxiv.org/abs/2502.05177)|**[link](https://github.com/vita-mllm/long-vita)**|
 |**2025-02-07**|**DCFormer: Efficient 3D Vision-Language Modeling with Decomposed Convolutions**|Gorkem Can Ates et.al.|[2502.05091](http://arxiv.org/abs/2502.05091)|null|
 |**2025-02-07**|**OccGS: Zero-shot 3D Occupancy Reconstruction with Semantic and Geometric-Aware Gaussian Splatting**|Xiaoyu Zhou et.al.|[2502.04981](http://arxiv.org/abs/2502.04981)|null|
 |**2025-02-07**|**Training-free Task-oriented Grasp Generation**|Jiaming Wang et.al.|[2502.04873](http://arxiv.org/abs/2502.04873)|null|
 |**2025-02-07**|**ELITE: Enhanced Language-Image Toxicity Evaluation for Safety**|Wonjun Lee et.al.|[2502.04757](http://arxiv.org/abs/2502.04757)|null|
 |**2025-02-06**|**AnyPlace: Learning Generalized Object Placement for Robot Manipulation**|Yuchi Zhao et.al.|[2502.04531](http://arxiv.org/abs/2502.04531)|null|
-|**2025-02-06**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328](http://arxiv.org/abs/2502.04328)|null|
-|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|null|
+|**2025-02-06**|**Ola: Pushing the Frontiers of Omni-Modal Language Model with Progressive Modality Alignment**|Zuyan Liu et.al.|[2502.04328](http://arxiv.org/abs/2502.04328)|**[link](https://github.com/ola-omni/ola)**|
+|**2025-02-06**|**Cross the Gap: Exposing the Intra-modal Misalignment in CLIP via Modality Inversion**|Marco Mistretta et.al.|[2502.04263](http://arxiv.org/abs/2502.04263)|**[link](https://github.com/miccunifi/cross-the-gap)**|
 |**2025-02-06**|**Éclair -- Extracting Content and Layout with Integrated Reading Order for Documents**|Ilia Karmanov et.al.|[2502.04223](http://arxiv.org/abs/2502.04223)|null|
 |**2025-02-06**|**HD-EPIC: A Highly-Detailed Egocentric Video Dataset**|Toby Perrett et.al.|[2502.04144](http://arxiv.org/abs/2502.04144)|null|
 |**2025-02-06**|**Efficient Few-Shot Continual Learning in Vision-Language Models**|Aristeidis Panos et.al.|[2502.04098](http://arxiv.org/abs/2502.04098)|null|
 |**2025-02-06**|**CAD-Editor: A Locate-then-Infill Framework with Automated Training Data Synthesis for Text-Based CAD Editing**|Yu Yuan et.al.|[2502.03997](http://arxiv.org/abs/2502.03997)|null|
 |**2025-02-06**|**Adapting Human Mesh Recovery with Vision-Language Feedback**|Chongyang Xu et.al.|[2502.03836](http://arxiv.org/abs/2502.03836)|null|
-|**2025-02-05**|**The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering**|Zhuowei Li et.al.|[2502.03628](http://arxiv.org/abs/2502.03628)|null|
+|**2025-02-05**|**The Hidden Life of Tokens: Reducing Hallucination of Large Vision-Language Models via Visual Information Steering**|Zhuowei Li et.al.|[2502.03628](http://arxiv.org/abs/2502.03628)|**[link](https://github.com/LzVv123456/VISTA)**|
 |**2025-02-05**|**DynVFX: Augmenting Real Videos with Dynamic Content**|Danah Yatim et.al.|[2502.03621](http://arxiv.org/abs/2502.03621)|null|
 |**2025-02-05**|**EnVisionVR: A Scene Interpretation Tool for Visual Accessibility in Virtual Reality**|Junlong Chen et.al.|[2502.03564](http://arxiv.org/abs/2502.03564)|null|
 |**2025-02-05**|**SKI Models: Skeleton Induced Vision-Language Embeddings for Understanding Activities of Daily Living**|Arkaprava Sinha et.al.|[2502.03459](http://arxiv.org/abs/2502.03459)|null|
@@ -316,7 +316,7 @@ layout: default
 |**2024-12-17**|**HandsOnVLM: Vision-Language Models for Hand-Object Interaction Prediction**|Chen Bao et.al.|[2412.13187](http://arxiv.org/abs/2412.13187)|null|
 |**2024-12-17**|**Feather the Throttle: Revisiting Visual Token Pruning for Vision-Language Model Acceleration**|Mark Endo et.al.|[2412.13180](http://arxiv.org/abs/2412.13180)|null|
 |**2024-12-17**|**Improving Fine-grained Visual Understanding in VLMs through Text-Only Training**|Dasol Choi et.al.|[2412.12940](http://arxiv.org/abs/2412.12940)|null|
-|**2024-12-17**|**CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models**|Zihui Cheng et.al.|[2412.12932](http://arxiv.org/abs/2412.12932)|null|
+|**2024-12-17**|**CoMT: A Novel Benchmark for Chain of Multi-modal Thought on Large Vision-Language Models**|Zihui Cheng et.al.|[2412.12932](http://arxiv.org/abs/2412.12932)|**[link](https://github.com/czhhzc/CoMT)**|
 |**2024-12-17**|**An Agentic Approach to Automatic Creation of P&ID Diagrams from Natural Language Descriptions**|Shreeyash Gowaikar et.al.|[2412.12898](http://arxiv.org/abs/2412.12898)|null|
 |**2024-12-17**|**ZoRI: Towards Discriminative Zero-Shot Remote Sensing Instance Segmentation**|Shiqi Huang et.al.|[2412.12798](http://arxiv.org/abs/2412.12798)|**[link](https://github.com/huangshiqi128/zori)**|
 |**2024-12-17**|**CRoF: CLIP-based Robust Few-shot Learning on Noisy Labels**|Shizhuo Deng et.al.|[2412.12793](http://arxiv.org/abs/2412.12793)|null|
@@ -506,7 +506,7 @@ layout: default
 |**2024-11-12**|**BLIP3-KALE: Knowledge Augmented Large-Scale Dense Captions**|Anas Awadalla et.al.|[2411.07461](http://arxiv.org/abs/2411.07461)|null|
 |**2024-11-11**|**SAMPart3D: Segment Any Part in 3D Objects**|Yunhan Yang et.al.|[2411.07184](http://arxiv.org/abs/2411.07184)|**[link](https://github.com/yhyang-myron/sampart3d-website)**|
 |**2024-11-11**|**StoryTeller: Improving Long Video Description through Global Audio-Visual Character Identification**|Yichen He et.al.|[2411.07076](http://arxiv.org/abs/2411.07076)|**[link](https://github.com/hyc2026/StoryTeller)**|
-|**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921](http://arxiv.org/abs/2411.06921)|null|
+|**2024-11-11**|**UMFC: Unsupervised Multi-Domain Feature Calibration for Vision-Language Models**|Jiachen Liang et.al.|[2411.06921](http://arxiv.org/abs/2411.06921)|**[link](https://github.com/git-ljc/umfc)**|
 |**2024-11-11**|**Multi-Stage Knowledge Integration of Vision-Language Models for Continual Learning**|Hongsheng Zhang et.al.|[2411.06764](http://arxiv.org/abs/2411.06764)|null|
 |**2024-11-11**|**Learning from Feedback: Semantic Enhancement for Object SLAM Using Foundation Models**|Jungseok Hong et.al.|[2411.06752](http://arxiv.org/abs/2411.06752)|null|
 |**2024-11-11**|**Track Any Peppers: Weakly Supervised Sweet Pepper Tracking Using VLMs**|Jia Syuen Lim et.al.|[2411.06702](http://arxiv.org/abs/2411.06702)|null|
