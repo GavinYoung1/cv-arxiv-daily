@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-19**|**Symmetrical Visual Contrastive Optimization: Aligning Vision-Language Models with Minimal Contrastive Images**|Shengguang Wu et.al.|[2502.13928](http://arxiv.org/abs/2502.13928)|null|
+|**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
+|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|null|
+|**2025-02-19**|**Quantifying Memorization and Retriever Performance in Retrieval-Augmented Vision-Language Models**|Peter Carragher et.al.|[2502.13836](http://arxiv.org/abs/2502.13836)|null|
+|**2025-02-19**|**GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking**|Florian Schneider et.al.|[2502.13766](http://arxiv.org/abs/2502.13766)|null|
+|**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|null|
+|**2025-02-19**|**Transferring Textual Preferences to Vision-Language Understanding through Model Merging**|Chen-An Li et.al.|[2502.13487](http://arxiv.org/abs/2502.13487)|null|
+|**2025-02-19**|**Estimating Commonsense Plausibility through Semantic Shifts**|Wanqing Cui et.al.|[2502.13464](http://arxiv.org/abs/2502.13464)|null|
+|**2025-02-19**|**MapNav: A Novel Memory Representation via Annotated Semantic Maps for VLM-based Vision-and-Language Navigation**|Lingfeng Zhang et.al.|[2502.13451](http://arxiv.org/abs/2502.13451)|null|
+|**2025-02-19**|**Vision-Based Generic Potential Function for Policy Alignment in Multi-Agent Reinforcement Learning**|Hao Ma et.al.|[2502.13430](http://arxiv.org/abs/2502.13430)|null|
 |**2025-02-18**|**Re-Align: Aligning Vision Language Models via Retrieval-Augmented Direct Preference Optimization**|Shuo Xing et.al.|[2502.13146](http://arxiv.org/abs/2502.13146)|null|
 |**2025-02-18**|**Multimodal Mamba: Decoder-only Multimodal State Space Model via Quadratic to Linear Distillation**|Bencheng Liao et.al.|[2502.13145](http://arxiv.org/abs/2502.13145)|null|
 |**2025-02-18**|**SoFar: Language-Grounded Orientation Bridges Spatial Reasoning and Object Manipulation**|Zekun Qi et.al.|[2502.13143](http://arxiv.org/abs/2502.13143)|null|
