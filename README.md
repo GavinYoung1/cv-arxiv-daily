@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.02.20
+## Updated on 2025.02.21
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -21,7 +21,7 @@
 |---|---|---|---|---|
 |**2025-02-19**|**Symmetrical Visual Contrastive Optimization: Aligning Vision-Language Models with Minimal Contrastive Images**|Shengguang Wu et.al.|[2502.13928](http://arxiv.org/abs/2502.13928)|null|
 |**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
-|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|null|
+|**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|**[link](https://github.com/basics-lab/spectral-explain)**|
 |**2025-02-19**|**Quantifying Memorization and Retriever Performance in Retrieval-Augmented Vision-Language Models**|Peter Carragher et.al.|[2502.13836](http://arxiv.org/abs/2502.13836)|null|
 |**2025-02-19**|**GIMMICK -- Globally Inclusive Multimodal Multitask Cultural Knowledge Benchmarking**|Florian Schneider et.al.|[2502.13766](http://arxiv.org/abs/2502.13766)|null|
 |**2025-02-19**|**VLAS: Vision-Language-Action Model With Speech Instructions For Customized Robot Manipulation**|Wei Zhao et.al.|[2502.13508](http://arxiv.org/abs/2502.13508)|null|
@@ -765,7 +765,7 @@
 |**2024-10-07**|**TLDR: Token-Level Detective Reward Model for Large Vision Language Models**|Deqing Fu et.al.|[2410.04734](http://arxiv.org/abs/2410.04734)|null|
 |**2024-10-06**|**Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress**|Christopher Agia et.al.|[2410.04640](http://arxiv.org/abs/2410.04640)|null|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## Video-Text Retrieval
 
@@ -785,7 +785,7 @@
 |**2023-09-25**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551](http://arxiv.org/abs/2308.11551)|**[link](https://github.com/gengyuanmax/mevtr)**|
 |**2022-08-26**|**Partially Relevant Video Retrieval**|Jianfeng Dong et.al.|[2208.12510](http://arxiv.org/abs/2208.12510)|**[link](https://github.com/HuiGuanLab/ms-sl)**|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 ## Human-Centric
 
@@ -814,7 +814,7 @@
 |**2024-03-16**|**Bidirectional Multi-Step Domain Generalization for Visible-Infrared Person Re-Identification**|Mahdi Alehdaghi et.al.|[2403.10782](http://arxiv.org/abs/2403.10782)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650](http://arxiv.org/abs/2403.08650)|null|
 
-<p align=right>(<a href=#updated-on-20250220>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250221>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
