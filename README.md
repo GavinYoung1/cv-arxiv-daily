@@ -38,13 +38,13 @@
 |**2025-02-26**|**Grad-ECLIP: Gradient-based Visual and Textual Explanations for CLIP**|Chenyang Zhao et.al.|[2502.18816](http://arxiv.org/abs/2502.18816)|null|
 |**2025-02-26**|**QueryAdapter: Rapid Adaptation of Vision-Language Models in Response to Natural Language Queries**|Nicolas Harvey Chapman et.al.|[2502.18735](http://arxiv.org/abs/2502.18735)|null|
 |**2025-02-25**|**olmOCR: Unlocking Trillions of Tokens in PDFs with Vision Language Models**|Jake Poznanski et.al.|[2502.18443](http://arxiv.org/abs/2502.18443)|null|
-|**2025-02-25**|**WebGames: Challenging General-Purpose Web-Browsing AI Agents**|George Thomas et.al.|[2502.18356](http://arxiv.org/abs/2502.18356)|null|
+|**2025-02-25**|**WebGames: Challenging General-Purpose Web-Browsing AI Agents**|George Thomas et.al.|[2502.18356](http://arxiv.org/abs/2502.18356)|**[link](https://github.com/convergence-ai/webgames)**|
 |**2025-02-25**|**Stealthy Backdoor Attack in Self-Supervised Learning Vision Encoders for Large Vision Language Models**|Zhaoyi Liu et.al.|[2502.18290](http://arxiv.org/abs/2502.18290)|null|
 |**2025-02-25**|**NusaAksara: A Multimodal and Multilingual Benchmark for Preserving Indonesian Indigenous Scripts**|Muhammad Farid Adilazuarda et.al.|[2502.18148](http://arxiv.org/abs/2502.18148)|null|
 |**2025-02-25**|**Detecting Offensive Memes with Social Biases in Singapore Context Using Multimodal Large Language Models**|Cao Yuxuan et.al.|[2502.18101](http://arxiv.org/abs/2502.18101)|**[link](https://github.com/aliencaocao/vlm-for-memes-aisg)**|
 |**2025-02-25**|**VLM-E2E: Enhancing End-to-End Autonomous Driving with Multimodal Driver Attention Fusion**|Pei Liu et.al.|[2502.18042](http://arxiv.org/abs/2502.18042)|null|
 |**2025-02-25**|**UniGS: Unified Language-Image-3D Pretraining with Gaussian Splatting**|Haoyuan Li et.al.|[2502.17860](http://arxiv.org/abs/2502.17860)|null|
-|**2025-02-25**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al.|[2502.17812](http://arxiv.org/abs/2502.17812)|null|
+|**2025-02-25**|**Can Multimodal LLMs Perform Time Series Anomaly Detection?**|Xiongxiao Xu et.al.|[2502.17812](http://arxiv.org/abs/2502.17812)|**[link](https://github.com/mllm-ts/visualtimeanomaly)**|
 |**2025-02-24**|**Mind the Gesture: Evaluating AI Sensitivity to Culturally Offensive Non-Verbal Gestures**|Akhila Yerukola et.al.|[2502.17710](http://arxiv.org/abs/2502.17710)|null|
 |**2025-02-24**|**METAL: A Multi-Agent Framework for Chart Generation with Test-Time Scaling**|Bingxuan Li et.al.|[2502.17651](http://arxiv.org/abs/2502.17651)|null|
 |**2025-02-24**|**DIS-CO: Discovering Copyrighted Content in VLMs Training Data**|André V. Duarte et.al.|[2502.17358](http://arxiv.org/abs/2502.17358)|**[link](https://github.com/avduarte333/dis-co)**|
@@ -68,15 +68,15 @@
 |**2025-02-21**|**PairBench: A Systematic Framework for Selecting Reliable Judge VLMs**|Aarash Feizi et.al.|[2502.15210](http://arxiv.org/abs/2502.15210)|null|
 |**2025-02-21**|**CurricuVLM: Towards Safe Autonomous Driving via Personalized Safety-Critical Curriculum Learning with Vision-Language Models**|Zihao Sheng et.al.|[2502.15119](http://arxiv.org/abs/2502.15119)|null|
 |**2025-02-20**|**Scaling Text-Rich Image Understanding via Code-Guided Synthetic Multimodal Data Generation**|Yue Yang et.al.|[2502.14846](http://arxiv.org/abs/2502.14846)|null|
-|**2025-02-20**|**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models**|Shangqing Tu et.al.|[2502.14834](http://arxiv.org/abs/2502.14834)|null|
+|**2025-02-20**|**LongWriter-V: Enabling Ultra-Long and High-Fidelity Generation in Vision-Language Models**|Shangqing Tu et.al.|[2502.14834](http://arxiv.org/abs/2502.14834)|**[link](https://github.com/thu-keg/longwriter-v)**|
 |**2025-02-20**|**SigLIP 2: Multilingual Vision-Language Encoders with Improved Semantic Understanding, Localization, and Dense Features**|Michael Tschannen et.al.|[2502.14786](http://arxiv.org/abs/2502.14786)|**[link](https://github.com/google-research/big_vision)**|
 |**2025-02-20**|**ReVision: A Dataset and Baseline VLM for Privacy-Preserving Task-Oriented Visual Instruction Rewriting**|Abhijit Mishra et.al.|[2502.14780](http://arxiv.org/abs/2502.14780)|null|
-|**2025-02-21**|**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**|Yilei Jiang et.al.|[2502.14744](http://arxiv.org/abs/2502.14744)|null|
-|**2025-02-20**|**NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization**|Zheyuan Zhang et.al.|[2502.14638](http://arxiv.org/abs/2502.14638)|null|
-|**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|null|
+|**2025-02-21**|**HiddenDetect: Detecting Jailbreak Attacks against Large Vision-Language Models via Monitoring Hidden States**|Yilei Jiang et.al.|[2502.14744](http://arxiv.org/abs/2502.14744)|**[link](https://github.com/leigest519/hiddendetect)**|
+|**2025-02-20**|**NAVIG: Natural Language-guided Analysis with Vision Language Models for Image Geo-localization**|Zheyuan Zhang et.al.|[2502.14638](http://arxiv.org/abs/2502.14638)|**[link](https://github.com/sparrowzheyuan18/navig)**|
+|**2025-02-20**|**Noisy Test-Time Adaptation in Vision-Language Models**|Chentao Cao et.al.|[2502.14604](http://arxiv.org/abs/2502.14604)|**[link](https://github.com/tmlr-group/zs-ntta)**|
 |**2025-02-20**|**PLPHP: Per-Layer Per-Head Vision Token Pruning for Efficient Large Vision-Language Models**|Yu Meng et.al.|[2502.14504](http://arxiv.org/abs/2502.14504)|null|
 |**2025-02-20**|**How Jailbreak Defenses Work and Ensemble? A Mechanistic Investigation**|Zhuohang Long et.al.|[2502.14486](http://arxiv.org/abs/2502.14486)|null|
-|**2025-02-20**|**Evaluating Precise Geolocation Inference Capabilities of Vision Language Models**|Neel Jay et.al.|[2502.14412](http://arxiv.org/abs/2502.14412)|null|
+|**2025-02-20**|**Evaluating Precise Geolocation Inference Capabilities of Vision Language Models**|Neel Jay et.al.|[2502.14412](http://arxiv.org/abs/2502.14412)|**[link](https://github.com/njspyx/location-inference)**|
 |**2025-02-19**|**Symmetrical Visual Contrastive Optimization: Aligning Vision-Language Models with Minimal Contrastive Images**|Shengguang Wu et.al.|[2502.13928](http://arxiv.org/abs/2502.13928)|null|
 |**2025-02-19**|**NavigateDiff: Visual Predictors are Zero-Shot Navigation Assistants**|Yiran Qin et.al.|[2502.13894](http://arxiv.org/abs/2502.13894)|null|
 |**2025-02-19**|**SPEX: Scaling Feature Interaction Explanations for LLMs**|Justin Singh Kang et.al.|[2502.13870](http://arxiv.org/abs/2502.13870)|**[link](https://github.com/basics-lab/spectral-explain)**|
@@ -94,7 +94,7 @@
 |**2025-02-18**|**MVL-SIB: A Massively Multilingual Vision-Language Benchmark for Cross-Modal Topical Matching**|Fabian David Schmidt et.al.|[2502.12852](http://arxiv.org/abs/2502.12852)|null|
 |**2025-02-18**|**Learning a High-quality Robotic Wiping Policy Using Systematic Reward Analysis and Visual-Language Model Based Curriculum**|Yihong Liu et.al.|[2502.12599](http://arxiv.org/abs/2502.12599)|null|
 |**2025-02-18**|**CutPaste&Find: Efficient Multimodal Hallucination Detector with Visual-aid Knowledge Base**|Cong-Duy Nguyen et.al.|[2502.12591](http://arxiv.org/abs/2502.12591)|null|
-|**2025-02-18**|**Robust Disentangled Counterfactual Learning for Physical Audiovisual Commonsense Reasoning**|Mengshi Qi et.al.|[2502.12425](http://arxiv.org/abs/2502.12425)|null|
+|**2025-02-18**|**Robust Disentangled Counterfactual Learning for Physical Audiovisual Commonsense Reasoning**|Mengshi Qi et.al.|[2502.12425](http://arxiv.org/abs/2502.12425)|**[link](https://github.com/MICLAB-BUPT/DCL)**|
 |**2025-02-17**|**LanP: Rethinking the Impact of Language Priors in Large Vision-Language Models**|Zongyu Wu et.al.|[2502.12359](http://arxiv.org/abs/2502.12359)|null|
 |**2025-02-17**|**Descriminative-Generative Custom Tokens for Vision-Language Models**|Pramuditha Perera et.al.|[2502.12095](http://arxiv.org/abs/2502.12095)|null|
 |**2025-02-17**|**VLM $^2$ -Bench: A Closer Look at How Well VLMs Implicitly Link Explicit Matching Visual Cues**|Jianshu Zhang et.al.|[2502.12084](http://arxiv.org/abs/2502.12084)|null|
