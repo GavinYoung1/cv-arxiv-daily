@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-02-28**|**Raccoon: Multi-stage Diffusion Training with Coarse-to-Fine Curating Videos**|Zhiyu Tan et.al.|[2502.21314](http://arxiv.org/abs/2502.21314)|null|
+|**2025-02-28**|**PET Image Denoising via Text-Guided Diffusion: Integrating Anatomical Priors through Text Prompts**|Boxiao Yu et.al.|[2502.21260](http://arxiv.org/abs/2502.21260)|null|
+|**2025-02-28**|**FC-Attack: Jailbreaking Large Vision-Language Models via Auto-Generated Flowcharts**|Ziyi Zhang et.al.|[2502.21059](http://arxiv.org/abs/2502.21059)|null|
+|**2025-02-28**|**DexGraspVLA: A Vision-Language-Action Framework Towards General Dexterous Grasping**|Yifan Zhong et.al.|[2502.20900](http://arxiv.org/abs/2502.20900)|null|
+|**2025-02-28**|**VLEER: Vision and Language Embeddings for Explainable Whole Slide Image Representation**|Anh Tien Nguyen et.al.|[2502.20850](http://arxiv.org/abs/2502.20850)|null|
+|**2025-02-28**|**CoTMR: Chain-of-Thought Multi-Scale Reasoning for Training-Free Zero-Shot Composed Image Retrieval**|Zelong Sun et.al.|[2502.20826](http://arxiv.org/abs/2502.20826)|null|
+|**2025-02-28**|**MedHallTune: An Instruction-Tuning Benchmark for Mitigating Medical Hallucination in Vision-Language Models**|Qiao Yan et.al.|[2502.20780](http://arxiv.org/abs/2502.20780)|null|
+|**2025-02-28**|**Mitigating Hallucinations in Large Vision-Language Models by Adaptively Constraining Information Flow**|Jiaqi Bai et.al.|[2502.20750](http://arxiv.org/abs/2502.20750)|null|
+|**2025-02-28**|**T2ICount: Enhancing Cross-modal Understanding for Zero-Shot Counting**|Yifei Qian et.al.|[2502.20625](http://arxiv.org/abs/2502.20625)|null|
+|**2025-02-27**|**Cache-of-Thought: Master-Apprentice Framework for Cost-Effective Vision Language Model Inference**|Mingyuan Wu et.al.|[2502.20587](http://arxiv.org/abs/2502.20587)|null|
 |**2025-02-27**|**Visual Adaptive Prompting for Compositional Zero-Shot Learning**|Kyle Stein et.al.|[2502.20292](http://arxiv.org/abs/2502.20292)|null|
 |**2025-02-27**|**Explainable, Multi-modal Wound Infection Classification from Images Augmented with Generated Captions**|Palawat Busaranuvong et.al.|[2502.20277](http://arxiv.org/abs/2502.20277)|null|
 |**2025-02-27**|**VDT-Auto: End-to-end Autonomous Driving with VLM-Guided Diffusion Transformers**|Ziang Guo et.al.|[2502.20108](http://arxiv.org/abs/2502.20108)|null|
