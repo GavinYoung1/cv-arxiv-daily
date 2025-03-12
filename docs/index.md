@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**Generating Robot Constitutions & Benchmarks for Semantic Safety**|Pierre Sermanet et.al.|[2503.08663](http://arxiv.org/abs/2503.08663)|null|
+|**2025-03-11**|**TLA: Tactile-Language-Action Model for Contact-Rich Manipulation**|Peng Hao et.al.|[2503.08548](http://arxiv.org/abs/2503.08548)|null|
+|**2025-03-11**|**GTR: Guided Thought Reinforcement Prevents Thought Collapse in RL-based VLM Agent Training**|Tong Wei et.al.|[2503.08525](http://arxiv.org/abs/2503.08525)|null|
+|**2025-03-11**|**External Knowledge Injection for CLIP-Based Class-Incremental Learning**|Da-Wei Zhou et.al.|[2503.08510](http://arxiv.org/abs/2503.08510)|null|
+|**2025-03-11**|**MMRL: Multi-Modal Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2503.08497](http://arxiv.org/abs/2503.08497)|**[link](https://github.com/yunncheng/MMRL)**|
+|**2025-03-11**|**SuperCap: Multi-resolution Superpixel-based Image Captioning**|Henry Senior et.al.|[2503.08496](http://arxiv.org/abs/2503.08496)|null|
+|**2025-03-11**|**TT-GaussOcc: Test-Time Compute for Self-Supervised Occupancy Prediction via Spatio-Temporal Gaussian Splatting**|Fengyi Zhang et.al.|[2503.08485](http://arxiv.org/abs/2503.08485)|null|
+|**2025-03-11**|**PhysVLM: Enabling Visual Language Models to Understand Robotic Physical Reachability**|Weijie Zhou et.al.|[2503.08481](http://arxiv.org/abs/2503.08481)|**[link](https://github.com/unira-zwj/PhysVLM)**|
+|**2025-03-11**|**Debiased Prompt Tuning in Vision-Language Model without Annotations**|Chaoquan Jiang et.al.|[2503.08368](http://arxiv.org/abs/2503.08368)|null|
+|**2025-03-11**|**Trinity: A Modular Humanoid Robot AI System**|Jingkai Sun et.al.|[2503.08338](http://arxiv.org/abs/2503.08338)|null|
 |**2025-03-10**|**Chameleon: Fast-slow Neuro-symbolic Lane Topology Extraction**|Zongzheng Zhang et.al.|[2503.07485](http://arxiv.org/abs/2503.07485)|null|
 |**2025-03-10**|**REF-VLM: Triplet-Based Referring Paradigm for Unified Visual Decoding**|Yan Tai et.al.|[2503.07413](http://arxiv.org/abs/2503.07413)|**[link](https://github.com/MacavityT/REF-VLM)**|
 |**2025-03-11**|**FedRand: Enhancing Privacy in Federated Learning with Randomized LoRA Subparameter Updates**|Sangwoo Park et.al.|[2503.07216](http://arxiv.org/abs/2503.07216)|null|
@@ -894,6 +904,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-11**|**AG-VPReID: A Challenging Large-Scale Benchmark for Aerial-Ground Video-based Person Re-Identification**|Huy Nguyen et.al.|[2503.08121](http://arxiv.org/abs/2503.08121)|null|
 |**2025-02-10**|**Group-CLIP Uncertainty Modeling for Group Re-Identification**|Qingxin Zhang et.al.|[2502.06460](http://arxiv.org/abs/2502.06460)|null|
 |**2025-01-13**|**Event-based Video Person Re-identification via Cross-Modality and Temporal Collaboration**|Renkai Li et.al.|[2501.07296](http://arxiv.org/abs/2501.07296)|null|
 |**2024-12-23**|**Unity is Strength: Unifying Convolutional and Transformeral Features for Better Person Re-Identification**|Yuhao Wang et.al.|[2412.17239](http://arxiv.org/abs/2412.17239)|**[link](https://github.com/924973292/fusionreid)**|
