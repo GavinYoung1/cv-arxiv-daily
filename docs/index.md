@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-03-28**|**Understanding Co-speech Gestures in-the-wild**|Sindhu B Hegde et.al.|[2503.22668](http://arxiv.org/abs/2503.22668)|null|
+|**2025-03-28**|**Unicorn: Text-Only Data Synthesis for Vision Language Model Training**|Xiaomin Yu et.al.|[2503.22655](http://arxiv.org/abs/2503.22655)|**[link](https://github.com/yu-xm/unicorn)**|
+|**2025-03-28**|**Breaking Language Barriers in Visual Language Models via Multilingual Textual Regularization**|Iñigo Pikabea et.al.|[2503.22577](http://arxiv.org/abs/2503.22577)|null|
+|**2025-03-28**|**VisTa: Visual-contextual and Text-augmented Zero-shot Object-level OOD Detection**|Bin Zhang et.al.|[2503.22291](http://arxiv.org/abs/2503.22291)|null|
+|**2025-03-28**|**FLIP: Towards Comprehensive and Reliable Evaluation of Federated Prompt Learning**|Dongping Liao et.al.|[2503.22263](http://arxiv.org/abs/2503.22263)|**[link](https://github.com/0-ml/flip)**|
+|**2025-03-28**|**Multi-modal Knowledge Distillation-based Human Trajectory Forecasting**|Jaewoo Jeong et.al.|[2503.22201](http://arxiv.org/abs/2503.22201)|null|
+|**2025-03-28**|**REMAC: Self-Reflective and Self-Evolving Multi-Agent Collaboration for Long-Horizon Robot Manipulation**|Puzhen Yuan et.al.|[2503.22122](http://arxiv.org/abs/2503.22122)|null|
+|**2025-03-28**|**How Well Can Vison-Language Models Understand Humans' Intention? An Open-ended Theory of Mind Question Evaluation Benchmark**|Ximing Wen et.al.|[2503.22093](http://arxiv.org/abs/2503.22093)|null|
+|**2025-03-28**|**A Survey on Remote Sensing Foundation Models: From Vision to Multimodality**|Ziyue Huang et.al.|[2503.22081](http://arxiv.org/abs/2503.22081)|null|
+|**2025-03-27**|**CoT-VLA: Visual Chain-of-Thought Reasoning for Vision-Language-Action Models**|Qingqing Zhao et.al.|[2503.22020](http://arxiv.org/abs/2503.22020)|null|
 |**2025-03-27**|**Fwd2Bot: LVLM Visual Token Compression with Double Forward Bottleneck**|Adrian Bulat et.al.|[2503.21757](http://arxiv.org/abs/2503.21757)|null|
 |**2025-03-27**|**VBench-2.0: Advancing Video Generation Benchmark Suite for Intrinsic Faithfulness**|Dian Zheng et.al.|[2503.21755](http://arxiv.org/abs/2503.21755)|**[link](https://github.com/vchitect/vbench)**|
 |**2025-03-27**|**Fine-Grained Evaluation of Large Vision-Language Models in Autonomous Driving**|Yue Li et.al.|[2503.21505](http://arxiv.org/abs/2503.21505)|null|
