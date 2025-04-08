@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
+|**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
+|**2025-04-07**|**A Reality Check of Vision-Language Pre-training in Radiology: Have We Progressed Using Text?**|Julio Silva-Rodríguez et.al.|[2504.05227](http://arxiv.org/abs/2504.05227)|null|
+|**2025-04-07**|**Vision-Language Model Predictive Control for Manipulation Planning and Trajectory Generation**|Jiaming Chen et.al.|[2504.05225](http://arxiv.org/abs/2504.05225)|null|
+|**2025-04-07**|**EffOWT: Transfer Visual Language Models to Open-World Tracking Efficiently and Effectively**|Bingyang Wang et.al.|[2504.05141](http://arxiv.org/abs/2504.05141)|null|
+|**2025-04-07**|**RS-RAG: Bridging Remote Sensing Imagery and Comprehensive Knowledge with a Multi-Modal Dataset and Retrieval-Augmented Generation Model**|Congcong Wen et.al.|[2504.04988](http://arxiv.org/abs/2504.04988)|null|
+|**2025-04-07**|**A Taxonomy of Self-Handover**|Naoki Wake et.al.|[2504.04939](http://arxiv.org/abs/2504.04939)|null|
+|**2025-04-07**|**SCAM: A Real-World Typographic Robustness Evaluation for Multimodal Foundation Models**|Justus Westerhoff et.al.|[2504.04893](http://arxiv.org/abs/2504.04893)|null|
+|**2025-04-07**|**Don't Lag, RAG: Training-Free Adversarial Detection Using RAG**|Roie Kazoom et.al.|[2504.04858](http://arxiv.org/abs/2504.04858)|null|
+|**2025-04-07**|**OCC-MLLM-CoT-Alpha: Towards Multi-stage Occlusion Recognition Based on Large Language Models via 3D-Aware Supervision and Chain-of-Thoughts Guidance**|Chaoyi Wang et.al.|[2504.04781](http://arxiv.org/abs/2504.04781)|null|
 |**2025-04-04**|**Know What You do Not Know: Verbalized Uncertainty Estimation Robustness on Corrupted Images in Vision-Language Models**|Mirko Borszukovszki et.al.|[2504.03440](http://arxiv.org/abs/2504.03440)|null|
 |**2025-04-04**|**SARLANG-1M: A Benchmark for Vision-Language Modeling in SAR Image Understanding**|Yimin Wei et.al.|[2504.03254](http://arxiv.org/abs/2504.03254)|null|
 |**2025-04-04**|**Seeing is Believing: Belief-Space Planning with Foundation Models as Uncertainty Estimators**|Linfeng Zhao et.al.|[2504.03245](http://arxiv.org/abs/2504.03245)|null|
