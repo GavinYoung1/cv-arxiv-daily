@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.04.07
+## Updated on 2025.04.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -24,7 +24,7 @@
 |**2025-04-04**|**Seeing is Believing: Belief-Space Planning with Foundation Models as Uncertainty Estimators**|Linfeng Zhao et.al.|[2504.03245](http://arxiv.org/abs/2504.03245)|null|
 |**2025-04-04**|**Mamba as a Bridge: Where Vision Foundation Models Meet Vision Language Models for Domain-Generalized Semantic Segmentation**|Xin Zhang et.al.|[2504.03193](http://arxiv.org/abs/2504.03193)|null|
 |**2025-04-04**|**REJEPA: A Novel Joint-Embedding Predictive Architecture for Efficient Remote Sensing Image Retrieval**|Shabnam Choudhury et.al.|[2504.03169](http://arxiv.org/abs/2504.03169)|null|
-|**2025-04-04**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164](http://arxiv.org/abs/2504.03164)|null|
+|**2025-04-07**|**NuScenes-SpatialQA: A Spatial Understanding and Reasoning Benchmark for Vision-Language Models in Autonomous Driving**|Kexin Tian et.al.|[2504.03164](http://arxiv.org/abs/2504.03164)|null|
 |**2025-04-04**|**TokenFLEX: Unified VLM Training for Flexible Visual Tokens Inference**|Junshan Hu et.al.|[2504.03154](http://arxiv.org/abs/2504.03154)|null|
 |**2025-04-04**|**MORAL: A Multimodal Reinforcement Learning Framework for Decision Making in Autonomous Laboratories**|Natalie Tirabassi et.al.|[2504.03153](http://arxiv.org/abs/2504.03153)|null|
 |**2025-04-03**|**QID: Efficient Query-Informed ViTs in Data-Scarce Regimes for OCR-free Visual Document Understanding**|Binh M. Le et.al.|[2504.02971](http://arxiv.org/abs/2504.02971)|null|
@@ -1055,7 +1055,7 @@
 |**2024-10-07**|**TLDR: Token-Level Detective Reward Model for Large Vision Language Models**|Deqing Fu et.al.|[2410.04734](http://arxiv.org/abs/2410.04734)|null|
 |**2024-10-06**|**Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress**|Christopher Agia et.al.|[2410.04640](http://arxiv.org/abs/2410.04640)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 ## Video-Text Retrieval
 
@@ -1077,7 +1077,7 @@
 |**2023-09-25**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551](http://arxiv.org/abs/2308.11551)|**[link](https://github.com/gengyuanmax/mevtr)**|
 |**2022-08-26**|**Partially Relevant Video Retrieval**|Jianfeng Dong et.al.|[2208.12510](http://arxiv.org/abs/2208.12510)|**[link](https://github.com/HuiGuanLab/ms-sl)**|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 ## Human-Centric
 
@@ -1109,7 +1109,7 @@
 |**2024-03-16**|**Bidirectional Multi-Step Domain Generalization for Visible-Infrared Person Re-Identification**|Mahdi Alehdaghi et.al.|[2403.10782](http://arxiv.org/abs/2403.10782)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650](http://arxiv.org/abs/2403.08650)|null|
 
-<p align=right>(<a href=#updated-on-20250407>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250408>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
