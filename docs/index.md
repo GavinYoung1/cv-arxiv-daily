@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-08**|**OmniSVG: A Unified Scalable Vector Graphics Generation Model**|Yiying Yang et.al.|[2504.06263](http://arxiv.org/abs/2504.06263)|null|
+|**2025-04-08**|**Latent Multimodal Reconstruction for Misinformation Detection**|Stefanos-Iordanis Papadopoulos et.al.|[2504.06010](http://arxiv.org/abs/2504.06010)|null|
+|**2025-04-08**|**econSG: Efficient and Multi-view Consistent Open-Vocabulary 3D Semantic Gaussians**|Can Zhang et.al.|[2504.06003](http://arxiv.org/abs/2504.06003)|null|
+|**2025-04-08**|**Measuring Déjà vu Memorization Efficiently**|Narine Kokhlikyan et.al.|[2504.05651](http://arxiv.org/abs/2504.05651)|null|
+|**2025-04-08**|**A Lightweight Large Vision-language Model for Multimodal Medical Images**|Belal Alsinglawi et.al.|[2504.05575](http://arxiv.org/abs/2504.05575)|null|
+|**2025-04-07**|**ChartQAPro: A More Diverse and Challenging Benchmark for Chart Question Answering**|Ahmed Masry et.al.|[2504.05506](http://arxiv.org/abs/2504.05506)|null|
+|**2025-04-07**|**Trust Through Transparency: Explainable Social Navigation for Autonomous Mobile Robots via Vision-Language Models**|Oluwadamilola Sotomi et.al.|[2504.05477](http://arxiv.org/abs/2504.05477)|null|
+|**2025-04-07**|**REVEAL: Relation-based Video Representation Learning for Video-Question-Answering**|Sofian Chaybouti et.al.|[2504.05463](http://arxiv.org/abs/2504.05463)|null|
+|**2025-04-07**|**Taxonomy-Aware Evaluation of Vision-Language Models**|Vésteinn Snæbjarnarson et.al.|[2504.05457](http://arxiv.org/abs/2504.05457)|null|
+|**2025-04-07**|**Probing the Visualization Literacy of Vision Language Models: the Good, the Bad, and the Ugly**|Lianghan Dong et.al.|[2504.05445](http://arxiv.org/abs/2504.05445)|null|
 |**2025-04-07**|**InteractVLM: 3D Interaction Reasoning from 2D Foundational Models**|Sai Kumar Dwivedi et.al.|[2504.05303](http://arxiv.org/abs/2504.05303)|null|
 |**2025-04-07**|**SmolVLM: Redefining small and efficient multimodal models**|Andrés Marafioti et.al.|[2504.05299](http://arxiv.org/abs/2504.05299)|null|
 |**2025-04-07**|**A Reality Check of Vision-Language Pre-training in Radiology: Have We Progressed Using Text?**|Julio Silva-Rodríguez et.al.|[2504.05227](http://arxiv.org/abs/2504.05227)|null|
