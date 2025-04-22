@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-04-21**|**Eagle 2.5: Boosting Long-Context Post-Training for Frontier Vision-Language Models**|Guo Chen et.al.|[2504.15271](http://arxiv.org/abs/2504.15271)|null|
+|**2025-04-21**|**KGMEL: Knowledge Graph-Enhanced Multimodal Entity Linking**|Juyeon Kim et.al.|[2504.15135](http://arxiv.org/abs/2504.15135)|**[link](https://github.com/juyeonnn/kgmel)**|
+|**2025-04-21**|**Benchmarking Large Vision-Language Models on Fine-Grained Image Tasks: A Comprehensive Evaluation**|Hong-Tao Yu et.al.|[2504.14988](http://arxiv.org/abs/2504.14988)|**[link](https://github.com/seu-vipgroup/fg-bmk)**|
+|**2025-04-21**|**VLM as Policy: Common-Law Content Moderation Framework for Short Video Platform**|Xingyu Lu et.al.|[2504.14904](http://arxiv.org/abs/2504.14904)|null|
+|**2025-04-21**|**Object-Level Verbalized Confidence Calibration in Vision-Language Models via Semantic Perturbation**|Yunpu Zhao et.al.|[2504.14848](http://arxiv.org/abs/2504.14848)|null|
+|**2025-04-20**|**OmniV-Med: Scaling Medical Vision-Language Model for Universal Visual Understanding**|Songtao Jiang et.al.|[2504.14692](http://arxiv.org/abs/2504.14692)|null|
+|**2025-04-20**|**NVSMask3D: Hard Visual Prompting with Camera Pose Interpolation for 3D Open Vocabulary Instance Segmentation**|Junyuan Fang et.al.|[2504.14638](http://arxiv.org/abs/2504.14638)|null|
+|**2025-04-20**|**LGD: Leveraging Generative Descriptions for Zero-Shot Referring Image Segmentation**|Jiachen Li et.al.|[2504.14467](http://arxiv.org/abs/2504.14467)|null|
+|**2025-04-20**|**Neglected Risks: The Disturbing Reality of Children's Images in Datasets and the Urgent Call for Accountability**|Carlos Caetano et.al.|[2504.14446](http://arxiv.org/abs/2504.14446)|null|
+|**2025-04-19**|**Hydra: An Agentic Reasoning Approach for Enhancing Adversarial Robustness and Mitigating Hallucinations in Vision-Language Models**|Chung-En et.al.|[2504.14395](http://arxiv.org/abs/2504.14395)|null|
 |**2025-04-18**|**Analysing the Robustness of Vision-Language-Models to Common Corruptions**|Muhammad Usama et.al.|[2504.13690](http://arxiv.org/abs/2504.13690)|null|
 |**2025-04-18**|**EyecareGPT: Boosting Comprehensive Ophthalmology Understanding with Tailored Dataset, Benchmark and Model**|Sijing Li et.al.|[2504.13650](http://arxiv.org/abs/2504.13650)|null|
 |**2025-04-18**|**PV-VLM: A Multimodal Vision-Language Approach Incorporating Sky Images for Intra-Hour Photovoltaic Power Forecasting**|Huapeng Lin et.al.|[2504.13624](http://arxiv.org/abs/2504.13624)|null|
