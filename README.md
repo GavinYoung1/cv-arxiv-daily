@@ -19,6 +19,11 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-04-23**|**V $^2$ R-Bench: Holistically Evaluating LVLM Robustness to Fundamental Visual Variations**|Zhiyuan Fan et.al.|[2504.16727](http://arxiv.org/abs/2504.16727)|null|
+|**2025-04-23**|**Streetscape Analysis with Generative AI (SAGAI): Vision-Language Assessment and Mapping of Urban Scenes**|Joan Perez et.al.|[2504.16538](http://arxiv.org/abs/2504.16538)|null|
+|**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Meng Chu et.al.|[2504.16505](http://arxiv.org/abs/2504.16505)|null|
+|**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Hariseetharam Gunduboina et.al.|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
+|**2025-04-22**|**CLIP-IT: CLIP-based Pairing for Histology Images Classification**|Banafsheh Karimian et.al.|[2504.16181](http://arxiv.org/abs/2504.16181)|null|
 |**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
 |**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
