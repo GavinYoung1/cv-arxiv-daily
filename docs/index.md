@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.07
+## Updated on 2025.05.08
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLM
@@ -20,7 +20,7 @@ layout: default
 |**2025-05-06**|**Learning Knowledge-based Prompts for Robust 3D Mask Presentation Attack Detection**|Fangling Jiang et.al.|[2505.03610](http://arxiv.org/abs/2505.03610)|null|
 |**2025-05-06**|**LogisticsVLN: Vision-Language Navigation For Low-Altitude Terminal Delivery Based on Agentic UAVs**|Xinyuan Zhang et.al.|[2505.03460](http://arxiv.org/abs/2505.03460)|null|
 |**2025-05-06**|**Mitigating Image Captioning Hallucinations in Vision-Language Models**|Fei Zhao et.al.|[2505.03420](http://arxiv.org/abs/2505.03420)|null|
-|**2025-05-06**|**Enhancing Target-unspecific Tasks through a Features Matrix**|Fangming Cui et.al.|[2505.03414](http://arxiv.org/abs/2505.03414)|null|
+|**2025-05-07**|**Enhancing Target-unspecific Tasks through a Features Matrix**|Fangming Cui et.al.|[2505.03414](http://arxiv.org/abs/2505.03414)|null|
 |**2025-05-06**|**Reducing Annotation Burden in Physical Activity Research Using Vision-Language Models**|Abram Schonfeldt et.al.|[2505.03374](http://arxiv.org/abs/2505.03374)|null|
 |**2025-05-06**|**A Vision-Language Model for Focal Liver Lesion Classification**|Song Jian et.al.|[2505.03350](http://arxiv.org/abs/2505.03350)|null|
 |**2025-05-06**|**From Word to Sentence: A Large-Scale Multi-Instance Dataset for Open-Set Aerial Detection**|Guoting Wei et.al.|[2505.03334](http://arxiv.org/abs/2505.03334)|null|
