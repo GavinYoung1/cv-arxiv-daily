@@ -14,6 +14,14 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
+|**2025-05-15**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
+|**2025-05-15**|**Vision language models have difficulty recognizing virtual objects**|Tyler Tran et.al.|[2505.10453](http://arxiv.org/abs/2505.10453)|null|
+|**2025-05-15**|**Coherent Language Reconstruction from Brain Recordings with Flexible Multi-Modal Input Stimuli**|Chunyu Ye et.al.|[2505.10356](http://arxiv.org/abs/2505.10356)|null|
+|**2025-05-15**|**MMRL++: Parameter-Efficient and Interaction-Aware Representation Learning for Vision-Language Models**|Yuncheng Guo et.al.|[2505.10088](http://arxiv.org/abs/2505.10088)|**[link](https://github.com/yunncheng/MMRL)**|
+|**2025-05-15**|**AdaptCLIP: Adapting CLIP for Universal Visual Anomaly Detection**|Bin-Bin Gao et.al.|[2505.09926](http://arxiv.org/abs/2505.09926)|**[link](https://github.com/gaobb/AdaptCLIP)**|
+|**2025-05-14**|**Unfettered Forceful Skill Acquisition with Physical Reasoning and Coordinate Frame Labeling**|William Xie et.al.|[2505.09731](http://arxiv.org/abs/2505.09731)|null|
+|**2025-05-14**|**ManipBench: Benchmarking Vision-Language Models for Low-Level Robot Manipulation**|Enyu Zhao et.al.|[2505.09698](http://arxiv.org/abs/2505.09698)|null|
 |**2025-05-14**|**Variational Visual Question Answering**|Tobias Jan Wieczorek et.al.|[2505.09591](http://arxiv.org/abs/2505.09591)|null|
 |**2025-05-14**|**VTLA: Vision-Tactile-Language-Action Model with Preference Learning for Insertion Manipulation**|Chaofan Zhang et.al.|[2505.09577](http://arxiv.org/abs/2505.09577)|null|
 |**2025-05-14**|**Flash-VL 2B: Optimizing Vision-Language Model Performance for Ultra-Low Latency and High Throughput**|Bo Zhang et.al.|[2505.09498](http://arxiv.org/abs/2505.09498)|null|
