@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
+|**2025-05-16**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383](http://arxiv.org/abs/2505.11383)|null|
+|**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
+|**2025-05-16**|**Temporally-Grounded Language Generation: A Benchmark for Real-Time Vision-Language Models**|Keunwoo Peter Yu et.al.|[2505.11326](http://arxiv.org/abs/2505.11326)|null|
+|**2025-05-16**|**Sample Efficient Reinforcement Learning via Large Vision Language Model Distillation**|Donghoon Lee et.al.|[2505.11221](http://arxiv.org/abs/2505.11221)|null|
+|**2025-05-16**|**FALCON: False-Negative Aware Learning of Contrastive Negatives in Vision-Language Pretraining**|Myunsoo Kim et.al.|[2505.11192](http://arxiv.org/abs/2505.11192)|null|
+|**2025-05-16**|**Redundancy-Aware Pretraining of Vision-Language Foundation Models in Remote Sensing**|Mathis Jürgen Adler et.al.|[2505.11121](http://arxiv.org/abs/2505.11121)|null|
+|**2025-05-16**|**CUBIC: Concept Embeddings for Unsupervised Bias Identification using VLMs**|David Méndez et.al.|[2505.11060](http://arxiv.org/abs/2505.11060)|null|
+|**2025-05-16**|**GuardReasoner-VL: Safeguarding VLMs via Reinforced Reasoning**|Yue Liu et.al.|[2505.11049](http://arxiv.org/abs/2505.11049)|null|
+|**2025-05-16**|**Exploiting the Asymmetric Uncertainty Structure of Pre-trained VLMs on the Unit Hypersphere**|Li Ju et.al.|[2505.11029](http://arxiv.org/abs/2505.11029)|null|
 |**2025-05-15**|**MASSV: Multimodal Adaptation and Self-Data Distillation for Speculative Decoding of Vision-Language Models**|Mugilan Ganesan et.al.|[2505.10526](http://arxiv.org/abs/2505.10526)|null|
 |**2025-05-15**|**AI Agents vs. Agentic AI: A Conceptual Taxonomy, Applications and Challenge**|Ranjan Sapkota et.al.|[2505.10468](http://arxiv.org/abs/2505.10468)|null|
 |**2025-05-15**|**Vision language models have difficulty recognizing virtual objects**|Tyler Tran et.al.|[2505.10453](http://arxiv.org/abs/2505.10453)|null|
