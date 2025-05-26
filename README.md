@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.05.25
+## Updated on 2025.05.26
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -19,14 +19,14 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
-|**2025-05-22**|**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**|Jiaqi Wang et.al.|[2505.16854](http://arxiv.org/abs/2505.16854)|null|
-|**2025-05-22**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839](http://arxiv.org/abs/2505.16839)|null|
-|**2025-05-22**|**From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization**|Haonian Ji et.al.|[2505.16832](http://arxiv.org/abs/2505.16832)|null|
-|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|null|
+|**2025-05-23**|**Think or Not? Selective Reasoning via Reinforcement Learning for Vision-Language Models**|Jiaqi Wang et.al.|[2505.16854](http://arxiv.org/abs/2505.16854)|**[link](https://github.com/kokolerk/ton)**|
+|**2025-05-23**|**LaViDa: A Large Diffusion Language Model for Multimodal Understanding**|Shufan Li et.al.|[2505.16839](http://arxiv.org/abs/2505.16839)|**[link](https://github.com/jacklishufan/lavida)**|
+|**2025-05-22**|**From EduVisBench to EduVisAgent: A Benchmark and Multi-Agent Framework for Pedagogical Visualization**|Haonian Ji et.al.|[2505.16832](http://arxiv.org/abs/2505.16832)|**[link](https://github.com/aiming-lab/eduvisbench)**|
+|**2025-05-22**|**Perceptual Quality Assessment for Embodied AI**|Chunyi Li et.al.|[2505.16815](http://arxiv.org/abs/2505.16815)|**[link](https://github.com/lcysyzxdxc/embodiediqa)**|
 |**2025-05-22**|**SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving**|Xuesong Chen et.al.|[2505.16805](http://arxiv.org/abs/2505.16805)|null|
-|**2025-05-22**|**REOBench: Benchmarking Robustness of Earth Observation Foundation Models**|Xiang Li et.al.|[2505.16793](http://arxiv.org/abs/2505.16793)|null|
-|**2025-05-22**|**Single Domain Generalization for Few-Shot Counting via Universal Representation Matching**|Xianing Chen et.al.|[2505.16778](http://arxiv.org/abs/2505.16778)|null|
-|**2025-05-22**|**IFEval-Audio: Benchmarking Instruction-Following Capability in Audio-based Large Language Models**|Yiming Gao et.al.|[2505.16774](http://arxiv.org/abs/2505.16774)|null|
+|**2025-05-22**|**REOBench: Benchmarking Robustness of Earth Observation Foundation Models**|Xiang Li et.al.|[2505.16793](http://arxiv.org/abs/2505.16793)|**[link](https://github.com/lx709/reobench)**|
+|**2025-05-22**|**Single Domain Generalization for Few-Shot Counting via Universal Representation Matching**|Xianing Chen et.al.|[2505.16778](http://arxiv.org/abs/2505.16778)|**[link](https://github.com/jbr97/urm)**|
+|**2025-05-22**|**IFEval-Audio: Benchmarking Instruction-Following Capability in Audio-based Large Language Models**|Yiming Gao et.al.|[2505.16774](http://arxiv.org/abs/2505.16774)|**[link](https://github.com/audiollms/audiobench)**|
 |**2025-05-22**|**Self-Rewarding Large Vision-Language Models for Optimizing Prompts in Text-to-Image Generation**|Hongji Yang et.al.|[2505.16763](http://arxiv.org/abs/2505.16763)|null|
 |**2025-05-22**|**Representation Discrepancy Bridging Method for Remote Sensing Image-Text Retrieval**|Hailong Ning et.al.|[2505.16756](http://arxiv.org/abs/2505.16756)|null|
 |**2025-05-21**|**InstructSAM: A Training-Free Framework for Instruction-Oriented Remote Sensing Object Recognition**|Yijie Zheng et.al.|[2505.15818](http://arxiv.org/abs/2505.15818)|null|
@@ -1355,7 +1355,7 @@
 |**2024-10-07**|**TLDR: Token-Level Detective Reward Model for Large Vision Language Models**|Deqing Fu et.al.|[2410.04734](http://arxiv.org/abs/2410.04734)|null|
 |**2024-10-06**|**Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress**|Christopher Agia et.al.|[2410.04640](http://arxiv.org/abs/2410.04640)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Video-Text Retrieval
 
@@ -1380,7 +1380,7 @@
 |**2023-09-25**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551](http://arxiv.org/abs/2308.11551)|**[link](https://github.com/gengyuanmax/mevtr)**|
 |**2022-08-26**|**Partially Relevant Video Retrieval**|Jianfeng Dong et.al.|[2208.12510](http://arxiv.org/abs/2208.12510)|**[link](https://github.com/HuiGuanLab/ms-sl)**|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 ## Human-Centric
 
@@ -1416,7 +1416,7 @@
 |**2024-03-16**|**Bidirectional Multi-Step Domain Generalization for Visible-Infrared Person Re-Identification**|Mahdi Alehdaghi et.al.|[2403.10782](http://arxiv.org/abs/2403.10782)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650](http://arxiv.org/abs/2403.08650)|null|
 
-<p align=right>(<a href=#updated-on-20250525>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250526>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
