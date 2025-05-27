@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-26**|**Agentic 3D Scene Generation with Spatially Contextualized VLMs**|Xinhang Liu et.al.|[2505.20129](http://arxiv.org/abs/2505.20129)|null|
+|**2025-05-26**|**MEBench: A Novel Benchmark for Understanding Mutual Exclusivity Bias in Vision-Language Models**|Anh Thai et.al.|[2505.20122](http://arxiv.org/abs/2505.20122)|null|
+|**2025-05-26**|**EmoNet-Face: An Expert-Annotated Benchmark for Synthetic Emotion Recognition**|Christoph Schuhmann et.al.|[2505.20033](http://arxiv.org/abs/2505.20033)|null|
+|**2025-05-26**|**ViTaPEs: Visuotactile Position Encodings for Cross-Modal Alignment in Multimodal Transformers**|Fotios Lygerakis et.al.|[2505.20032](http://arxiv.org/abs/2505.20032)|null|
+|**2025-05-26**|**Decomposing Complex Visual Comprehension into Atomic Visual Skills for Vision Language Models**|Hyunsik Chae et.al.|[2505.20021](http://arxiv.org/abs/2505.20021)|null|
+|**2025-05-26**|**Can Visual Encoder Learn to See Arrows?**|Naoyuki Terashita et.al.|[2505.19944](http://arxiv.org/abs/2505.19944)|null|
+|**2025-05-26**|**Attention! You Vision Language Model Could Be Maliciously Manipulated**|Xiaosen Wang et.al.|[2505.19911](http://arxiv.org/abs/2505.19911)|null|
+|**2025-05-26**|**EMAC+: Embodied Multimodal Agent for Collaborative Planning with VLM+LLM**|Shuang Ao et.al.|[2505.19905](http://arxiv.org/abs/2505.19905)|null|
+|**2025-05-26**|**Underwater Diffusion Attention Network with Contrastive Language-Image Joint Learning for Underwater Image Enhancement**|Afrah Shaahid et.al.|[2505.19895](http://arxiv.org/abs/2505.19895)|null|
+|**2025-05-26**|**Two Causally Related Needles in a Video Haystack**|Miaoyu Li et.al.|[2505.19853](http://arxiv.org/abs/2505.19853)|null|
 |**2025-05-23**|**VideoGameBench: Can Vision-Language Models complete popular video games?**|Alex L. Zhang et.al.|[2505.18134](http://arxiv.org/abs/2505.18134)|null|
 |**2025-05-23**|**One RL to See Them All: Visual Triple Unified Reinforcement Learning**|Yan Ma et.al.|[2505.18129](http://arxiv.org/abs/2505.18129)|null|
 |**2025-05-23**|**CXReasonBench: A Benchmark for Evaluating Structured Diagnostic Reasoning in Chest X-rays**|Hyungyung Lee et.al.|[2505.18087](http://arxiv.org/abs/2505.18087)|null|
@@ -1396,6 +1406,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-05-23**|**DART $^3$ : Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337](http://arxiv.org/abs/2505.18337)|null|
 |**2025-05-07**|**DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**|Kailash A. Hambarde et.al.|[2505.04793](http://arxiv.org/abs/2505.04793)|null|
 |**2025-04-29**|**Adept: Annotation-Denoising Auxiliary Tasks with Discrete Cosine Transform Map and Keypoint for Human-Centric Pretraining**|Weizhen He et.al.|[2504.20800](http://arxiv.org/abs/2504.20800)|null|
 |**2025-04-17**|**Effective Dual-Region Augmentation for Reduced Reliance on Large Amounts of Labeled Data**|Prasanna Reddy Pulakurthi et.al.|[2504.13077](http://arxiv.org/abs/2504.13077)|**[link](https://github.com/PrasannaPulakurthi/Foreground-Background-Augmentation)**|
