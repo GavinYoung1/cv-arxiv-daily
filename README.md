@@ -40,8 +40,8 @@
 |**2025-05-28**|**Investigating Mechanisms for In-Context Vision Language Binding**|Darshana Saravanan et.al.|[2505.22200](http://arxiv.org/abs/2505.22200)|null|
 |**2025-05-29**|**Improving Brain-to-Image Reconstruction via Fine-Grained Text Bridging**|Runze Xia et.al.|[2505.22150](http://arxiv.org/abs/2505.22150)|null|
 |**2025-05-27**|**ViewSpatial-Bench: Evaluating Multi-perspective Spatial Localization in Vision-Language Models**|Dingming Li et.al.|[2505.21500](http://arxiv.org/abs/2505.21500)|null|
-|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|null|
-|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|null|
+|**2025-05-27**|**AdInject: Real-World Black-Box Attacks on Web Agents via Advertising Delivery**|Haowei Wang et.al.|[2505.21499](http://arxiv.org/abs/2505.21499)|**[link](https://github.com/nicerwang/adinject)**|
+|**2025-05-27**|**Paper2Poster: Towards Multimodal Poster Automation from Scientific Papers**|Wei Pang et.al.|[2505.21497](http://arxiv.org/abs/2505.21497)|**[link](https://github.com/paper2poster/paper2poster)**|
 |**2025-05-27**|**Mitigating Hallucination in Large Vision-Language Models via Adaptive Attention Calibration**|Mehrdad Fazli et.al.|[2505.21472](http://arxiv.org/abs/2505.21472)|null|
 |**2025-05-27**|**ID-Align: RoPE-Conscious Position Remapping for Dynamic High-Resolution Adaptation in Vision-Language Models**|Bozhou Li et.al.|[2505.21465](http://arxiv.org/abs/2505.21465)|null|
 |**2025-05-27**|**LazyVLM: Neuro-Symbolic Approach to Video Analytics**|Xiangru Jian et.al.|[2505.21459](http://arxiv.org/abs/2505.21459)|null|
@@ -109,7 +109,7 @@
 |**2025-05-19**|**ViPlan: A Benchmark for Visual Planning with Symbolic Predicates and Vision-Language Models**|Matteo Merler et.al.|[2505.13180](http://arxiv.org/abs/2505.13180)|**[link](https://github.com/merlerm/viplan)**|
 |**2025-05-19**|**Just Dance with $π$ ! A Poly-modal Inductor for Weakly-supervised Video Anomaly Detection**|Snehashis Majhi et.al.|[2505.13123](http://arxiv.org/abs/2505.13123)|null|
 |**2025-05-19**|**Hearing from Silence: Reasoning Audio Descriptions from Silent Videos via Vision-Language Model**|Yong Ren et.al.|[2505.13062](http://arxiv.org/abs/2505.13062)|null|
-|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|null|
+|**2025-05-16**|**Patho-R1: A Multimodal Reinforcement Learning-Based Pathology Expert Reasoner**|Wenchuan Zhang et.al.|[2505.11404](http://arxiv.org/abs/2505.11404)|**[link](https://github.com/wenchuan-zhang/patho-r1)**|
 |**2025-05-16**|**Dynam3D: Dynamic Layered 3D Tokens Empower VLM for Vision-and-Language Navigation**|Zihan Wang et.al.|[2505.11383](http://arxiv.org/abs/2505.11383)|**[link](https://github.com/mrzihan/dynam3d)**|
 |**2025-05-16**|**Search-TTA: A Multimodal Test-Time Adaptation Framework for Visual Search in the Wild**|Derek Ming Siang Tan et.al.|[2505.11350](http://arxiv.org/abs/2505.11350)|null|
 |**2025-05-16**|**Temporally-Grounded Language Generation: A Benchmark for Real-Time Vision-Language Models**|Keunwoo Peter Yu et.al.|[2505.11326](http://arxiv.org/abs/2505.11326)|**[link](https://github.com/yukw777/tglg)**|
@@ -258,7 +258,7 @@
 |**2025-04-23**|**Streetscape Analysis with Generative AI (SAGAI): Vision-Language Assessment and Mapping of Urban Scenes**|Joan Perez et.al.|[2504.16538](http://arxiv.org/abs/2504.16538)|null|
 |**2025-04-23**|**TraveLLaMA: Facilitating Multi-modal Large Language Models to Understand Urban Scenes and Provide Travel Assistance**|Meng Chu et.al.|[2504.16505](http://arxiv.org/abs/2504.16505)|null|
 |**2025-04-23**|**FrogDogNet: Fourier frequency Retained visual prompt Output Guidance for Domain Generalization of CLIP in Remote Sensing**|Hariseetharam Gunduboina et.al.|[2504.16433](http://arxiv.org/abs/2504.16433)|null|
-|**2025-04-22**|**CLIP-IT: CLIP-based Pairing for Histology Images Classification**|Banafsheh Karimian et.al.|[2504.16181](http://arxiv.org/abs/2504.16181)|null|
+|**2025-04-22**|**CLIP-IT: CLIP-based Pairing for Histology Images Classification**|Banafsheh Karimian et.al.|[2504.16181](http://arxiv.org/abs/2504.16181)|**[link](https://github.com/BanafshehKarimian/ModalityPairing)**|
 |**2025-04-22**|**MMInference: Accelerating Pre-filling for Long-Context VLMs via Modality-Aware Permutation Sparse Attention**|Yucheng Li et.al.|[2504.16083](http://arxiv.org/abs/2504.16083)|null|
 |**2025-04-22**|**MR. Video: "MapReduce" is the Principle for Long Video Understanding**|Ziqi Pang et.al.|[2504.16082](http://arxiv.org/abs/2504.16082)|null|
 |**2025-04-22**|**Guiding VLM Agents with Process Rewards at Inference Time for GUI Navigation**|Zhiyuan Hu et.al.|[2504.16073](http://arxiv.org/abs/2504.16073)|null|
@@ -1320,7 +1320,7 @@
 |**2024-10-18**|**Addressing Blind Guessing: Calibration of Selection Bias in Multiple-Choice Question Answering by Video Language Models**|Olga Loginova et.al.|[2410.14248](http://arxiv.org/abs/2410.14248)|null|
 |**2024-10-18**|**E3D-GPT: Enhanced 3D Visual Foundation for Medical Vision-Language Model**|Haoran Lai et.al.|[2410.14200](http://arxiv.org/abs/2410.14200)|null|
 |**2024-10-18**|**LabSafety Bench: Benchmarking LLMs on Safety Issues in Scientific Labs**|Yujun Zhou et.al.|[2410.14182](http://arxiv.org/abs/2410.14182)|null|
-|**2024-10-18**|**MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems**|Zifeng Zhu et.al.|[2410.14179](http://arxiv.org/abs/2410.14179)|null|
+|**2024-10-18**|**MultiChartQA: Benchmarking Vision-Language Models on Multi-Chart Problems**|Zifeng Zhu et.al.|[2410.14179](http://arxiv.org/abs/2410.14179)|**[link](https://github.com/zivenzhu/multi-chart-qa)**|
 |**2024-10-18**|**ProReason: Multi-Modal Proactive Reasoning with Decoupled Eyesight and Wisdom**|Jingqi Zhou et.al.|[2410.14138](http://arxiv.org/abs/2410.14138)|null|
 |**2024-10-17**|**Efficient Vision-Language Models by Summarizing Visual Tokens into Compact Registers**|Yuxin Wen et.al.|[2410.14072](http://arxiv.org/abs/2410.14072)|null|
 |**2024-10-17**|**VLM-Grounder: A VLM Agent for Zero-Shot 3D Visual Grounding**|Runsen Xu et.al.|[2410.13860](http://arxiv.org/abs/2410.13860)|**[link](https://github.com/openrobotlab/vlm-grounder)**|
