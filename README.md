@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
+|**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
+|**2025-06-04**|**Recent Advances in Medical Image Classification**|Loan Dao et.al.|[2506.04129](http://arxiv.org/abs/2506.04129)|null|
+|**2025-06-04**|**LaF-GRPO: In-Situ Navigation Instruction Generation for the Visually Impaired via GRPO with LLM-as-Follower Reward**|Yi Zhao et.al.|[2506.04070](http://arxiv.org/abs/2506.04070)|null|
+|**2025-06-04**|**Mitigating Hallucinations in Large Vision-Language Models via Entity-Centric Multimodal Preference Optimization**|Jiulong Wu et.al.|[2506.04039](http://arxiv.org/abs/2506.04039)|null|
+|**2025-06-04**|**Vocabulary-free few-shot learning for Vision-Language Models**|Maxime Zanella et.al.|[2506.04005](http://arxiv.org/abs/2506.04005)|null|
+|**2025-06-04**|**DiffCAP: Diffusion-based Cumulative Adversarial Purification for Vision Language Models**|Jia Fu et.al.|[2506.03933](http://arxiv.org/abs/2506.03933)|null|
+|**2025-06-04**|**Zero-Shot Temporal Interaction Localization for Egocentric Videos**|Erhang Zhang et.al.|[2506.03662](http://arxiv.org/abs/2506.03662)|null|
+|**2025-06-04**|**Spatial Understanding from Videos: Structured Prompts Meet Simulation Data**|Haoyu Zhang et.al.|[2506.03642](http://arxiv.org/abs/2506.03642)|null|
+|**2025-06-04**|**VLMs Can Aggregate Scattered Training Patches**|Zhanhui Zhou et.al.|[2506.03614](http://arxiv.org/abs/2506.03614)|null|
 |**2025-06-03**|**GUI-Actor: Coordinate-Free Visual Grounding for GUI Agents**|Qianhui Wu et.al.|[2506.03143](http://arxiv.org/abs/2506.03143)|null|
 |**2025-06-03**|**OmniSpatial: Towards Comprehensive Spatial Reasoning Benchmark for Vision Language Models**|Mengdi Jia et.al.|[2506.03135](http://arxiv.org/abs/2506.03135)|null|
 |**2025-06-03**|**EgoVLM: Policy Optimization for Egocentric Video Understanding**|Ashwin Vinod et.al.|[2506.03097](http://arxiv.org/abs/2506.03097)|null|
@@ -1431,6 +1441,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-04**|**MamFusion: Multi-Mamba with Temporal Fusion for Partially Relevant Video Retrieval**|Xinru Ying et.al.|[2506.03473](http://arxiv.org/abs/2506.03473)|null|
 |**2025-06-03**|**Uneven Event Modeling for Partially Relevant Video Retrieval**|Sa Zhu et.al.|[2506.00891](http://arxiv.org/abs/2506.00891)|null|
 |**2025-04-28**|**Exploiting Inter-Sample Correlation and Intra-Sample Redundancy for Partially Relevant Video Retrieval**|Junlong Ren et.al.|[2504.19637](http://arxiv.org/abs/2504.19637)|null|
 |**2025-04-17**|**Prototypes are Balanced Units for Efficient and Effective Partially Relevant Video Retrieval**|WonJun Moon et.al.|[2504.13035](http://arxiv.org/abs/2504.13035)|null|
