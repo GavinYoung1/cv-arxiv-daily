@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-06-05**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318](http://arxiv.org/abs/2506.05318)|null|
+|**2025-06-05**|**MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm**|Zhang Li et.al.|[2506.05218](http://arxiv.org/abs/2506.05218)|null|
+|**2025-06-05**|**Quantifying Cross-Modality Memorization in Vision-Language Models**|Yuxin Wen et.al.|[2506.05198](http://arxiv.org/abs/2506.05198)|null|
+|**2025-06-05**|**CIVET: Systematic Evaluation of Understanding in VLMs**|Massimo Rizzoli et.al.|[2506.05146](http://arxiv.org/abs/2506.05146)|null|
+|**2025-06-05**|**PixCell: A generative foundation model for digital histopathology images**|Srikar Yellapragada et.al.|[2506.05127](http://arxiv.org/abs/2506.05127)|null|
+|**2025-06-05**|**SeedEdit 3.0: Fast and High-Quality Generative Image Editing**|Peng Wang et.al.|[2506.05083](http://arxiv.org/abs/2506.05083)|null|
+|**2025-06-05**|**A Survey on Vietnamese Document Analysis and Recognition: Challenges and Future Directions**|Anh Le et.al.|[2506.05061](http://arxiv.org/abs/2506.05061)|null|
+|**2025-06-05**|**Hierarchical Language Models for Semantic Navigation and Manipulation in an Aerial-Ground Robotic System**|Haokun Liu et.al.|[2506.05020](http://arxiv.org/abs/2506.05020)|null|
+|**2025-06-05**|**ConECT Dataset: Overcoming Data Scarcity in Context-Aware E-Commerce MT**|Mikołaj Pokrywka et.al.|[2506.04929](http://arxiv.org/abs/2506.04929)|null|
+|**2025-06-05**|**Evaluating Vision-Language and Large Language Models for Automated Student Assessment in Indonesian Classrooms**|Nurul Aisyah et.al.|[2506.04822](http://arxiv.org/abs/2506.04822)|null|
 |**2025-06-04**|**OWMM-Agent: Open World Mobile Manipulation With Multi-modal Agentic Data Synthesis**|Junting Chen et.al.|[2506.04217](http://arxiv.org/abs/2506.04217)|null|
 |**2025-06-04**|**Image Editing As Programs with Diffusion Models**|Yujia Hu et.al.|[2506.04158](http://arxiv.org/abs/2506.04158)|null|
 |**2025-06-04**|**Recent Advances in Medical Image Classification**|Loan Dao et.al.|[2506.04129](http://arxiv.org/abs/2506.04129)|null|
