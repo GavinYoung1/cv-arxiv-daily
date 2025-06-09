@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-06**|**CoMemo: LVLMs Need Image Context with Image Memory**|Shi Liu et.al.|[2506.06279](http://arxiv.org/abs/2506.06279)|null|
+|**2025-06-06**|**ExAct: A Video-Language Benchmark for Expert Action Analysis**|Han Yi et.al.|[2506.06277](http://arxiv.org/abs/2506.06277)|null|
+|**2025-06-06**|**Movie Facts and Fibs (MF $^2$ ): A Benchmark for Long Movie Understanding**|Emmanouil Zaranis et.al.|[2506.06275](http://arxiv.org/abs/2506.06275)|null|
+|**2025-06-06**|**Challenging Vision-Language Models with Surgical Data: A New Dataset and Broad Benchmarking Study**|Leon Mayer et.al.|[2506.06232](http://arxiv.org/abs/2506.06232)|null|
+|**2025-06-06**|**GenIR: Generative Visual Feedback for Mental Image Retrieval**|Diji Yang et.al.|[2506.06220](http://arxiv.org/abs/2506.06220)|null|
+|**2025-06-06**|**STSBench: A Spatio-temporal Scenario Benchmark for Multi-modal Large Language Models in Autonomous Driving**|Christian Fruhwirth-Reisinger et.al.|[2506.06218](http://arxiv.org/abs/2506.06218)|null|
+|**2025-06-06**|**WisWheat: A Three-Tiered Vision-Language Dataset for Wheat Management**|Bowen Yuan et.al.|[2506.06084](http://arxiv.org/abs/2506.06084)|null|
+|**2025-06-06**|**Full Conformal Adaptation of Medical Vision-Language Models**|Julio Silva-Rodríguez et.al.|[2506.06076](http://arxiv.org/abs/2506.06076)|null|
+|**2025-06-06**|**BEAST: Efficient Tokenization of B-Splines Encoded Action Sequences for Imitation Learning**|Hongyi Zhou et.al.|[2506.06072](http://arxiv.org/abs/2506.06072)|null|
+|**2025-06-06**|**MCA-Bench: A Multimodal Benchmark for Evaluating CAPTCHA Robustness Against VLM-based Attacks**|Zonglin Wu et.al.|[2506.05982](http://arxiv.org/abs/2506.05982)|null|
 |**2025-06-06**|**Does Your 3D Encoder Really Work? When Pretrain-SFT from 2D VLMs Meets 3D VLMs**|Haoyuan Li et.al.|[2506.05318](http://arxiv.org/abs/2506.05318)|null|
 |**2025-06-05**|**MonkeyOCR: Document Parsing with a Structure-Recognition-Relation Triplet Paradigm**|Zhang Li et.al.|[2506.05218](http://arxiv.org/abs/2506.05218)|null|
 |**2025-06-05**|**Quantifying Cross-Modality Memorization in Vision-Language Models**|Yuxin Wen et.al.|[2506.05198](http://arxiv.org/abs/2506.05198)|null|
