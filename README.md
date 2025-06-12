@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.11
+## Updated on 2025.06.12
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -20,11 +20,11 @@
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
 |**2025-06-10**|**VIKI-R: Coordinating Embodied Multi-Agent Cooperation via Reinforcement Learning**|Li Kang et.al.|[2506.09049](http://arxiv.org/abs/2506.09049)|null|
-|**2025-06-10**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
+|**2025-06-11**|**Same Task, Different Circuits: Disentangling Modality-Specific Mechanisms in VLMs**|Yaniv Nikankin et.al.|[2506.09047](http://arxiv.org/abs/2506.09047)|null|
 |**2025-06-10**|**Autoregressive Semantic Visual Reconstruction Helps VLMs Understand Better**|Dianyi Wang et.al.|[2506.09040](http://arxiv.org/abs/2506.09040)|null|
 |**2025-06-10**|**Efficient Medical Vision-Language Alignment Through Adapting Masked Vision Models**|Chenyu Lian et.al.|[2506.08990](http://arxiv.org/abs/2506.08990)|null|
 |**2025-06-10**|**Socratic-MCTS: Test-Time Visual Reasoning by Asking the Right Questions**|David Acuna et.al.|[2506.08927](http://arxiv.org/abs/2506.08927)|null|
-|**2025-06-10**|**Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought**|Shuyi Zhang et.al.|[2506.08817](http://arxiv.org/abs/2506.08817)|null|
+|**2025-06-11**|**Video-CoT: A Comprehensive Dataset for Spatiotemporal Understanding of Videos Based on Chain-of-Thought**|Shuyi Zhang et.al.|[2506.08817](http://arxiv.org/abs/2506.08817)|null|
 |**2025-06-10**|**Multimodal Representation Alignment for Cross-modal Information Retrieval**|Fan Xu et.al.|[2506.08774](http://arxiv.org/abs/2506.08774)|null|
 |**2025-06-10**|**PhyBlock: A Progressive Benchmark for Physical Understanding and Planning via 3D Block Assembly**|Liang Ma et.al.|[2506.08708](http://arxiv.org/abs/2506.08708)|null|
 |**2025-06-10**|**VReST: Enhancing Reasoning in Large Vision-Language Models through Tree Search and Self-Reward Mechanism**|Congzhi Zhang et.al.|[2506.08691](http://arxiv.org/abs/2506.08691)|null|
@@ -1475,7 +1475,7 @@
 |**2024-10-07**|**TLDR: Token-Level Detective Reward Model for Large Vision Language Models**|Deqing Fu et.al.|[2410.04734](http://arxiv.org/abs/2410.04734)|null|
 |**2024-10-06**|**Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress**|Christopher Agia et.al.|[2410.04640](http://arxiv.org/abs/2410.04640)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Video-Text Retrieval
 
@@ -1503,7 +1503,7 @@
 |**2023-09-25**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551](http://arxiv.org/abs/2308.11551)|**[link](https://github.com/gengyuanmax/mevtr)**|
 |**2022-08-26**|**Partially Relevant Video Retrieval**|Jianfeng Dong et.al.|[2208.12510](http://arxiv.org/abs/2208.12510)|**[link](https://github.com/HuiGuanLab/ms-sl)**|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 ## Human-Centric
 
@@ -1540,7 +1540,7 @@
 |**2024-03-16**|**Bidirectional Multi-Step Domain Generalization for Visible-Infrared Person Re-Identification**|Mahdi Alehdaghi et.al.|[2403.10782](http://arxiv.org/abs/2403.10782)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650](http://arxiv.org/abs/2403.08650)|null|
 
-<p align=right>(<a href=#updated-on-20250611>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250612>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
