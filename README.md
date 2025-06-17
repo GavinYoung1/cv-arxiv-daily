@@ -19,6 +19,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-16**|**Touch begins where vision ends: Generalizable policies for contact-rich manipulation**|Zifan Zhao et.al.|[2506.13762](http://arxiv.org/abs/2506.13762)|null|
+|**2025-06-16**|**Prompting with the Future: Open-World Model Predictive Control with Interactive Digital Twins**|Chuanruo Ning et.al.|[2506.13761](http://arxiv.org/abs/2506.13761)|null|
+|**2025-06-16**|**OTFusion: Bridging Vision-only and Vision-Language Models via Optimal Transport for Transductive Zero-Shot Learning**|Qiyu Xu et.al.|[2506.13723](http://arxiv.org/abs/2506.13723)|null|
+|**2025-06-16**|**ROSA: Harnessing Robot States for Vision-Language and Action Alignment**|Yuqing Wen et.al.|[2506.13679](http://arxiv.org/abs/2506.13679)|null|
+|**2025-06-16**|**DualEdit: Dual Editing for Knowledge Updating in Vision-Language Models**|Zhiyi Shi et.al.|[2506.13638](http://arxiv.org/abs/2506.13638)|null|
+|**2025-06-16**|**VLM-SFD: VLM-Assisted Siamese Flow Diffusion Framework for Dual-Arm Cooperative Manipulation**|Jiaming Chen et.al.|[2506.13428](http://arxiv.org/abs/2506.13428)|null|
+|**2025-06-16**|**Uncertainty-Informed Active Perception for Open Vocabulary Object Goal Navigation**|Utkarsh Bajpai et.al.|[2506.13367](http://arxiv.org/abs/2506.13367)|null|
+|**2025-06-16**|**Anomaly Object Segmentation with Vision-Language Models for Steel Scrap Recycling**|Daichi Tanaka et.al.|[2506.13282](http://arxiv.org/abs/2506.13282)|null|
+|**2025-06-16**|**AdaLRS: Loss-Guided Adaptive Learning Rate Search for Efficient Foundation Model Pretraining**|Hongyuan Dong et.al.|[2506.13274](http://arxiv.org/abs/2506.13274)|null|
+|**2025-06-16**|**Screen Hijack: Visual Poisoning of VLM Agents in Mobile Environments**|Xuan Wang et.al.|[2506.13205](http://arxiv.org/abs/2506.13205)|null|
 |**2025-06-13**|**Affogato: Learning Open-Vocabulary Affordance Grounding with Automated Data Generation at Scale**|Junha Lee et.al.|[2506.12009](http://arxiv.org/abs/2506.12009)|null|
 |**2025-06-13**|**How Visual Representations Map to Language Feature Space in Multimodal LLMs**|Constantin Venhoff et.al.|[2506.11976](http://arxiv.org/abs/2506.11976)|null|
 |**2025-06-13**|**Rethinking Multilingual Vision-Language Translation: Dataset, Evaluation, and Adaptation**|Xintong Wang et.al.|[2506.11820](http://arxiv.org/abs/2506.11820)|null|
@@ -1539,6 +1549,7 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2025-06-14**|**Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching**|Hyeonseo Lee et.al.|[2506.12413](http://arxiv.org/abs/2506.12413)|null|
 |**2025-06-11**|**ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model**|Jialong Zuo et.al.|[2506.09385](http://arxiv.org/abs/2506.09385)|**[link](https://github.com/zplusdragon/reid5o_orbench)**|
 |**2025-05-23**|**DART $^3$ : Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337](http://arxiv.org/abs/2505.18337)|null|
 |**2025-05-07**|**DetReIDX: A Stress-Test Dataset for Real-World UAV-Based Person Recognition**|Kailash A. Hambarde et.al.|[2505.04793](http://arxiv.org/abs/2505.04793)|null|
