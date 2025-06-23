@@ -3,7 +3,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 <details>
@@ -25,7 +25,7 @@
 |**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594](http://arxiv.org/abs/2506.15594)|**[link](https://github.com/negar-foroutan/wikimixqa)**|
 |**2025-06-18**|**DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**|Shaoqing Lin et.al.|[2506.15583](http://arxiv.org/abs/2506.15583)|**[link](https://github.com/shaoqlin/discosg)**|
 |**2025-06-18**|**Context-Informed Grounding Supervision**|Hyunji Lee et.al.|[2506.15480](http://arxiv.org/abs/2506.15480)|**[link](https://github.com/kaistai/cings)**|
-|**2025-06-18**|**OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models**|Lanfeng Zhong et.al.|[2506.15318](http://arxiv.org/abs/2506.15318)|null|
+|**2025-06-19**|**OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models**|Lanfeng Zhong et.al.|[2506.15318](http://arxiv.org/abs/2506.15318)|null|
 |**2025-06-18**|**MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering**|Xinqi Fan et.al.|[2506.15298](http://arxiv.org/abs/2506.15298)|null|
 |**2025-06-18**|**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models**|Xuelin Shen et.al.|[2506.15201](http://arxiv.org/abs/2506.15201)|**[link](https://github.com/jiayinxu5499/psic)**|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
@@ -1535,7 +1535,7 @@
 |**2024-10-07**|**TLDR: Token-Level Detective Reward Model for Large Vision Language Models**|Deqing Fu et.al.|[2410.04734](http://arxiv.org/abs/2410.04734)|null|
 |**2024-10-06**|**Unpacking Failure Modes of Generative Policies: Runtime Monitoring of Consistency and Progress**|Christopher Agia et.al.|[2410.04640](http://arxiv.org/abs/2410.04640)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Video-Text Retrieval
 
@@ -1563,7 +1563,7 @@
 |**2023-09-25**|**Multi-event Video-Text Retrieval**|Gengyuan Zhang et.al.|[2308.11551](http://arxiv.org/abs/2308.11551)|**[link](https://github.com/gengyuanmax/mevtr)**|
 |**2022-08-26**|**Partially Relevant Video Retrieval**|Jianfeng Dong et.al.|[2208.12510](http://arxiv.org/abs/2208.12510)|**[link](https://github.com/HuiGuanLab/ms-sl)**|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 ## Human-Centric
 
@@ -1602,7 +1602,7 @@
 |**2024-03-16**|**Bidirectional Multi-Step Domain Generalization for Visible-Infrared Person Re-Identification**|Mahdi Alehdaghi et.al.|[2403.10782](http://arxiv.org/abs/2403.10782)|null|
 |**2024-03-13**|**Data Augmentation in Human-Centric Vision**|Wentao Jiang et.al.|[2403.08650](http://arxiv.org/abs/2403.08650)|null|
 
-<p align=right>(<a href=#updated-on-20250622>back to top</a>)</p>
+<p align=right>(<a href=#updated-on-20250623>back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors

@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.06.22
+## Updated on 2025.06.23
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLM
@@ -20,7 +20,7 @@ layout: default
 |**2025-06-18**|**WikiMixQA: A Multimodal Benchmark for Question Answering over Tables and Charts**|Negar Foroutan et.al.|[2506.15594](http://arxiv.org/abs/2506.15594)|**[link](https://github.com/negar-foroutan/wikimixqa)**|
 |**2025-06-18**|**DiscoSG: Towards Discourse-Level Text Scene Graph Parsing through Iterative Graph Refinement**|Shaoqing Lin et.al.|[2506.15583](http://arxiv.org/abs/2506.15583)|**[link](https://github.com/shaoqlin/discosg)**|
 |**2025-06-18**|**Context-Informed Grounding Supervision**|Hyunji Lee et.al.|[2506.15480](http://arxiv.org/abs/2506.15480)|**[link](https://github.com/kaistai/cings)**|
-|**2025-06-18**|**OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models**|Lanfeng Zhong et.al.|[2506.15318](http://arxiv.org/abs/2506.15318)|null|
+|**2025-06-19**|**OpenPath: Open-Set Active Learning for Pathology Image Classification via Pre-trained Vision-Language Models**|Lanfeng Zhong et.al.|[2506.15318](http://arxiv.org/abs/2506.15318)|null|
 |**2025-06-18**|**MEGC2025: Micro-Expression Grand Challenge on Spot Then Recognize and Visual Question Answering**|Xinqi Fan et.al.|[2506.15298](http://arxiv.org/abs/2506.15298)|null|
 |**2025-06-18**|**Privacy-Shielded Image Compression: Defending Against Exploitation from Vision-Language Pretrained Models**|Xuelin Shen et.al.|[2506.15201](http://arxiv.org/abs/2506.15201)|**[link](https://github.com/jiayinxu5499/psic)**|
 |**2025-06-18**|**ReSeDis: A Dataset for Referring-based Object Search across Large-Scale Image Collections**|Ziling Huang et.al.|[2506.15180](http://arxiv.org/abs/2506.15180)|null|
