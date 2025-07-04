@@ -7,7 +7,7 @@ layout: default
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 
-## Updated on 2025.07.03
+## Updated on 2025.07.04
 > Usage instructions: [here](./docs/README.md#usage)
 
 ## VLM
@@ -20,7 +20,7 @@ layout: default
 |**2025-07-02**|**MARVIS: Modality Adaptive Reasoning over VISualizations**|Benjamin Feuer et.al.|[2507.01544](http://arxiv.org/abs/2507.01544)|null|
 |**2025-07-02**|**Following the Clues: Experiments on Person Re-ID using Cross-Modal Intelligence**|Robert Aufschläger et.al.|[2507.01504](http://arxiv.org/abs/2507.01504)|null|
 |**2025-07-02**|**BioMARS: A Multi-Agent Robotic System for Autonomous Biological Experiments**|Yibo Qiu et.al.|[2507.01485](http://arxiv.org/abs/2507.01485)|null|
-|**2025-07-02**|**TriVLA: A Unified Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
+|**2025-07-03**|**TriVLA: A Triple-System-Based Unified Vision-Language-Action Model for General Robot Control**|Zhenyang Liu et.al.|[2507.01424](http://arxiv.org/abs/2507.01424)|null|
 |**2025-07-02**|**CaptionSmiths: Flexibly Controlling Language Pattern in Image Captioning**|Kuniaki Saito et.al.|[2507.01409](http://arxiv.org/abs/2507.01409)|null|
 |**2025-07-02**|**Long-Tailed Distribution-Aware Router For Mixture-of-Experts in Large Vision-Language Model**|Chaoxiang Cai et.al.|[2507.01351](http://arxiv.org/abs/2507.01351)|null|
 |**2025-07-02**|**VLAD: A VLM-Augmented Autonomous Driving Framework with Hierarchical Planning and Interpretable Decision Process**|Cristian Gariboldi et.al.|[2507.01284](http://arxiv.org/abs/2507.01284)|null|
