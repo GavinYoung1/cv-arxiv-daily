@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-10**|**CLIP Won't Learn Object-Attribute Binding from Natural Data and Here is Why**|Bijay Gurung et.al.|[2507.07985](http://arxiv.org/abs/2507.07985)|null|
+|**2025-07-10**|**Scaling RL to Long Videos**|Yukang Chen et.al.|[2507.07966](http://arxiv.org/abs/2507.07966)|null|
+|**2025-07-10**|**SAGE: A Visual Language Model for Anomaly Detection via Fact Enhancement and Entropy-aware Alignment**|Guoxin Zang et.al.|[2507.07939](http://arxiv.org/abs/2507.07939)|null|
+|**2025-07-10**|**MoSE: Skill-by-Skill Mixture-of-Expert Learning for Autonomous Driving**|Lu Xu et.al.|[2507.07818](http://arxiv.org/abs/2507.07818)|null|
+|**2025-07-10**|**Energy-Guided Decoding for Object Hallucination Mitigation**|Xixi Liu et.al.|[2507.07731](http://arxiv.org/abs/2507.07731)|null|
+|**2025-07-10**|**One Object, Multiple Lies: A Benchmark for Cross-task Adversarial Attack on Unified Vision-Language Models**|Jiale Zhao et.al.|[2507.07709](http://arxiv.org/abs/2507.07709)|null|
+|**2025-07-10**|**Rationale-Enhanced Decoding for Multi-modal Chain-of-Thought**|Shin'ya Yamaguchi et.al.|[2507.07685](http://arxiv.org/abs/2507.07685)|null|
+|**2025-07-10**|**ViLU: Learning Vision-Language Uncertainties for Failure Prediction**|Marc Lafon et.al.|[2507.07620](http://arxiv.org/abs/2507.07620)|null|
+|**2025-07-10**|**LOSC: LiDAR Open-voc Segmentation Consolidator**|Nermin Samet et.al.|[2507.07605](http://arxiv.org/abs/2507.07605)|null|
+|**2025-07-10**|**Beyond the Linear Separability Ceiling**|Enrico Vompa et.al.|[2507.07574](http://arxiv.org/abs/2507.07574)|null|
 |**2025-07-09**|**4KAgent: Agentic Any Image to 4K Super-Resolution**|Yushen Zuo et.al.|[2507.07105](http://arxiv.org/abs/2507.07105)|null|
 |**2025-07-09**|**Vision-Language-Vision Auto-Encoder: Scalable Knowledge Distillation from Diffusion Models**|Tiezheng Zhang et.al.|[2507.07104](http://arxiv.org/abs/2507.07104)|null|
 |**2025-07-09**|**Evaluating Attribute Confusion in Fashion Text-to-Image Generation**|Ziyue Liu et.al.|[2507.07079](http://arxiv.org/abs/2507.07079)|null|
@@ -1671,6 +1681,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-09**|**Colors See Colors Ignore: Clothes Changing ReID with Color Disentanglement**|Priyank Pathak et.al.|[2507.07230](http://arxiv.org/abs/2507.07230)|null|
 |**2025-06-14**|**Domain Generalization for Person Re-identification: A Survey Towards Domain-Agnostic Person Matching**|Hyeonseo Lee et.al.|[2506.12413](http://arxiv.org/abs/2506.12413)|**[link](https://github.com/perceptualai-lab/awesome-domain-generalizable-person-re-id)**|
 |**2025-06-11**|**ReID5o: Achieving Omni Multi-modal Person Re-identification in a Single Model**|Jialong Zuo et.al.|[2506.09385](http://arxiv.org/abs/2506.09385)|**[link](https://github.com/zplusdragon/reid5o_orbench)**|
 |**2025-05-23**|**DART $^3$ : Leveraging Distance for Test Time Adaptation in Person Re-Identification**|Rajarshi Bhattacharya et.al.|[2505.18337](http://arxiv.org/abs/2505.18337)|null|
