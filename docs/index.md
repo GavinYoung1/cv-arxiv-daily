@@ -14,6 +14,16 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**BetterCheck: Towards Safeguarding VLMs for Automotive Perception Systems**|Malsha Ashani Mahawatta Dona et.al.|[2507.17722](http://arxiv.org/abs/2507.17722)|null|
+|**2025-07-23**|**InstructVLA: Vision-Language-Action Instruction Tuning from Understanding to Manipulation**|Shuai Yang et.al.|[2507.17520](http://arxiv.org/abs/2507.17520)|null|
+|**2025-07-23**|**Dynamic Scoring with Enhanced Semantics for Training-Free Human-Object Interaction Detection**|Francesco Tonini et.al.|[2507.17456](http://arxiv.org/abs/2507.17456)|null|
+|**2025-07-23**|**VLM-Guided Visual Place Recognition for Planet-Scale Geo-Localization**|Sania Waheed et.al.|[2507.17455](http://arxiv.org/abs/2507.17455)|null|
+|**2025-07-23**|**Dynamic-DINO: Fine-Grained Mixture of Experts Tuning for Real-time Open-Vocabulary Object Detection**|Yehao Lu et.al.|[2507.17436](http://arxiv.org/abs/2507.17436)|null|
+|**2025-07-23**|**Language-Conditioned Open-Vocabulary Mobile Manipulation with Pretrained Models**|Shen Tan et.al.|[2507.17379](http://arxiv.org/abs/2507.17379)|null|
+|**2025-07-23**|**RoadBench: A Vision-Language Foundation Model and Benchmark for Road Damage Understanding**|Xi Xiao et.al.|[2507.17353](http://arxiv.org/abs/2507.17353)|null|
+|**2025-07-23**|**VisionTrap: Unanswerable Questions On Visual Data**|Asir Saadat et.al.|[2507.17262](http://arxiv.org/abs/2507.17262)|null|
+|**2025-07-23**|**HySafe-AI: Hybrid Safety Architectural Analysis Framework for AI Systems: A Case Study**|Mandar Pitale et.al.|[2507.17118](http://arxiv.org/abs/2507.17118)|null|
+|**2025-07-23**|**FedVLM: Scalable Personalized Vision-Language Models through Federated Learning**|Arkajyoti Mitra et.al.|[2507.17088](http://arxiv.org/abs/2507.17088)|null|
 |**2025-07-22**|**Semi-off-Policy Reinforcement Learning for Vision-Language Slow-thinking Reasoning**|Junhao Shen et.al.|[2507.16814](http://arxiv.org/abs/2507.16814)|null|
 |**2025-07-22**|**Cooling Matters: Benchmarking Large Language Models and Vision-Language Models on Liquid-Cooled Versus Air-Cooled H100 GPU Systems**|Imran Latif et.al.|[2507.16781](http://arxiv.org/abs/2507.16781)|null|
 |**2025-07-22**|**Zebra-CoT: A Dataset for Interleaved Vision Language Reasoning**|Ang Li et.al.|[2507.16746](http://arxiv.org/abs/2507.16746)|null|
@@ -1726,6 +1736,7 @@ layout: default
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2025-07-23**|**HLFormer: Enhancing Partially Relevant Video Retrieval with Hyperbolic Learning**|Li Jun et.al.|[2507.17402](http://arxiv.org/abs/2507.17402)|null|
 |**2025-07-17**|**FFI-VTR: Lightweight and Robust Visual Teach and Repeat Navigation based on Feature Flow Indicator and Probabilistic Motion Planning**|Jikai Wang et.al.|[2507.12800](http://arxiv.org/abs/2507.12800)|null|
 |**2025-07-15**|**Double Duty: FPGA Architecture to Enable Concurrent LUT and Adder Chain Usage**|Junius Pun et.al.|[2507.11709](http://arxiv.org/abs/2507.11709)|null|
 |**2025-07-15**|**Mapping Fusion: Improving FPGA Technology Mapping with ASIC Mapper**|Cunxi Yu et.al.|[2507.10912](http://arxiv.org/abs/2507.10912)|null|
